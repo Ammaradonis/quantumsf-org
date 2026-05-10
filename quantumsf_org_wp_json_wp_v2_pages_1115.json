@@ -1,0 +1,78 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/wp-json/wp/v2/pages/1115",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:26:02.926Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "application/json"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/wp-json/wp/v2/pages/1115",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289962951,
+          "endTime": 1778289963651,
+          "duration": 700
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 1,
+      "by_type": {
+        "document": 1
+      },
+      "failed": 0,
+      "avg_response_time": 700
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 7,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "{\"id\":1115,\"date\":\"2015-07-01T16:17:58\",\"date_gmt\":\"2015-07-02T00:17:58\",\"guid\":{\"rendered\":\"http:\\/\\/quantumsf.org\\/?page_id=1115\"},\"modified\":\"2024-09-19T13:24:41\",\"modified_gmt\":\"2024-09-19T20:24:41\",\"slug\":\"kids-class-schedule\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/quantumsf.org\\/kids-class-schedule\\/\",\"title\":{\"rendered\":\"Kids Class Schedule\"},\"content\":{\"rendered\":\"\\n<p class=\\\"wp-block-paragraph\\\"><\\/p>\\n\\n\\n\\n<hr class=\\\"wp-block-separator has-css-opacity\\\"\\/>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Kids classes are open to all experience levels. Beginners and new students are always welcome, and your first week of classes is free! Please let us know&nbsp;you&nbsp;are coming by scheduling an orientation and trial class using&nbsp;<a href=\\\"\\/contact-us\\/\\\">this quick form<\\/a>.<\\/p>\\n\\n\\n\\n<hr class=\\\"wp-block-separator has-css-opacity\\\"\\/>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><strong>Class Schedule<\\/strong>:<\\/p>\\n\\n\\n\\n<blockquote class=\\\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\\\">\\n<p class=\\\"wp-block-paragraph\\\">Monday:       4:30-5:30pm<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Tuesday:&nbsp; &nbsp; &nbsp; &nbsp;4:15\\u20135:15pm<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Wednesday: 5:15-6:00pm<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Thursday:\\u00a0 \\u00a0 \\u00a04:15\\u20135:15pm<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Friday:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5:00\\u20135:30pm (Kids Red Belt)<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Friday:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5:30\\u20136:30pm<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Saturday:\\u00a0 \\u00a0 10:00\\u201311:00am<\\/p>\\n<\\/blockquote>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Please note that enrolled students are required to attend at least two classes per week (excluding vacations).<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">For&nbsp;our&nbsp;latest up-to-date schedule, please consult&nbsp;and subscribe to our&nbsp;Google Calendar:<\\/p>\\n\\n\\n<div class=\\\"wp-block-jetpack-google-calendar\\\"><iframe loading=\\\"lazy\\\" src=\\\"https:\\/\\/calendar.google.com\\/calendar\\/embed?src=c_bfo0s037sojlcjv7k721kcario%40group.calendar.google.com&#038;ctz=America%2FLos_Angeles\\\" frameborder=\\\"0\\\" style=\\\"border:0\\\" scrolling=\\\"no\\\" height=\\\"600\\\" width=\\\"100%\\\" sandbox=\\\"allow-scripts allow-same-origin allow-popups\\\"><\\/iframe><\\/div>\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Martial Arts for Kids age 6\\u201310, classes six days a week<a href=\\\"https:\\/\\/quantumsf.org\\/kids-class-schedule\\/\\\" class=\\\"more-link\\\"><span class=\\\"more-link-text\\\">Read more <span class=\\\"screen-reader-text\\\">Kids Class Schedule<\\/span><\\/span><\\/a><\\/p>\\n\",\"protected\":false},\"author\":59245587,\"featured_media\":1610,\"parent\":0,\"menu_order\":0,\"comment_status\":\"closed\",\"ping_status\":\"closed\",\"template\":\"\",\"meta\":{\"_coblocks_attr\":\"\",\"_coblocks_dimensions\":\"\",\"_coblocks_responsive_height\":\"\",\"_coblocks_accordion_ie_support\":\"\",\"_crdt_document\":\"\",\"advanced_seo_description\":\"\",\"jetpack_seo_html_title\":\"\",\"jetpack_seo_noindex\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-1115\",\"page\",\"type-page\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"jetpack_likes_enabled\":true,\"jetpack_sharing_enabled\":true,\"jetpack_shortlink\":\"https:\\/\\/wp.me\\/P7T7OO-hZ\",\"amp_enabled\":true,\"_links\":{\"self\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/1115\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\"}],\"about\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/types\\/page\"}],\"author\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/users\\/59245587\"}],\"replies\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/comments?post=1115\"}],\"version-history\":[{\"count\":36,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/1115\\/revisions\"}],\"predecessor-version\":[{\"id\":7843,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/1115\\/revisions\\/7843\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media\\/1610\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media?parent=1115\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/tags?post=1115\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "schedule",
+      "secondary": [
+        "kids",
+        "programs",
+        "gallery"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

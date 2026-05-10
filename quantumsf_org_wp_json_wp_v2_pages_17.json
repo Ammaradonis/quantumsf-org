@@ -1,0 +1,78 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/wp-json/wp/v2/pages/17",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:20:18.231Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "application/json"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/wp-json/wp/v2/pages/17",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289618255,
+          "endTime": 1778289618821,
+          "duration": 566
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 1,
+      "by_type": {
+        "document": 1
+      },
+      "failed": 0,
+      "avg_response_time": 566
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 7,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "{\"id\":17,\"date\":\"2016-10-01T05:00:12\",\"date_gmt\":\"2016-10-01T05:00:12\",\"guid\":{\"rendered\":\"http:\\/\\/quantumsf.wordpress.com\\/?page_id=3\"},\"modified\":\"2024-08-27T08:47:43\",\"modified_gmt\":\"2024-08-27T15:47:43\",\"slug\":\"adults-martial-arts\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/quantumsf.org\\/adults-martial-arts\\/\",\"title\":{\"rendered\":\"Martial Arts for Adults\"},\"content\":{\"rendered\":\"\\n<p class=\\\"wp-block-paragraph\\\">Please see our <a href=\\\"https:\\/\\/quantumsf.org\\/adult-class-schedule\\/\\\" target=\\\"_blank\\\" rel=\\\"noreferrer noopener\\\">schedule<\\/a> for more info, and read about the style and the school below.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">If you would like information about joining the Dojo classes, please fill out our <a href=\\\"https:\\/\\/quantumsf.org\\/contact-us\\/\\\" data-type=\\\"URL\\\" data-id=\\\"https:\\/\\/quantumsf.org\\/contact-us\\/\\\" target=\\\"_blank\\\" rel=\\\"noreferrer noopener\\\">contact form. <\\/a><\\/p>\\n\\n\\n\\n<hr class=\\\"wp-block-separator has-css-opacity\\\"\\/>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">At Quantum, our focus is on teaching martial arts as a healing modality, encouraging students to seek personal growth and increased awareness by integrating presence of body, mind, and spirit. Quantum students will discover that the martial arts offers much more than practical self-defense, but also an opportunity for increased&nbsp;flexibility, endurance, body awareness, coordination, grace, balance, mental acuity, self-discipline, and the opportunity to live in the moment. The Quantum dojo is committed to supporting diversity and inclusion, and to maintaining an environment with equitable treatment for all. Please read our full Statement of Inclusion <a href=\\\"https:\\/\\/quantumsf.org\\/2020\\/04\\/01\\/quantum-martial-arts-statement-of-inclusion\\/\\\">here<\\/a>. <\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Classes begin with an intense round of calisthenics and flexibility training, followed by martial arts instruction. A typical class could&nbsp;involve line drills, partner work, forms, target practice, sparring concepts, or&nbsp;sparring. Our classes are open to people of all skill levels and experience, and beginners are always welcome. Adult classes take place 7 days a week, with afternoon, evening, and Saturday classes.&nbsp;<a href=\\\"https:\\/\\/quantumsf.org\\/contact-us\\/\\\">To sign up for a free trial class, please contact us via this form<\\/a>.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><b>What style of martial arts is taught?<\\/b><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Quantum is a multidisciplinary&nbsp;style created by Master Rachael Evans during the early 1990\\u2019s, drawing&nbsp;inspiration&nbsp;from various&nbsp;disciplines to create something unique. One hallmark of the Quantum style is the endeavor to expose the martial arts practitioner to many different ways of thinking. Master Evans has been pursuing her martial arts training for over thirty-five years, and Quantum Martial Arts reflects that rigorous pursuit. Quantum is a blend of hard and soft styles, a study of straight lines and circles, and explores the use of boxing as well as grappling.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">The beginner levels of White and Yellow Belt will cover foundational kicks, blocks, and strikes, and study basic stances and optimal posture while learning long-distance range fighting techniques. The framework of the style has its roots in <i>Tae Kwon Do<\\/i>, which is known for its explosive energy. Our sense of movement, however, comes from <i>Kung Fu<\\/i> styles such as <i>Tai Chi<\\/i> and <i>Wing Chun<\\/i>, where the focus is on smooth and subtle movement. Concepts of redirecting energy and conservation of motion are taken from <i>Aikido.<\\/i> The stretching and calisthenics we do are influenced by Master Evans\\u2019 experience with yoga and the U.S. Marine Corps boot camp.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">At the intermediate level of Green and Blue Belt, close-range concepts and techniques are incorporated into the curriculum. The inside trapping exercises we use blend the concepts of <i>Chi Sau<\\/i> (\\u201csticky hands\\u201d) from <i>Wing Chun<\\/i> and \\u201cpushing hands\\u201d from <i>Tai Chi<\\/i>. The ground fighting and grappling techniques we study are taken from <i>Judo<\\/i> (\\u201cthe gentle way\\u201d a Japanese system of throwing and falling), <i>Jiu-jitsu<\\/i>, and <i>Hapkido<\\/i> (a Korean system of grappling or wrestling).<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Although difficult to pin down, the Quantum spirit that moves through our blended tradition is strong and distinct. We are known for the intensity of our training, for our sense of humor, our community spirit, and for our focus on whole-body health and each individual\\u2019s journey through the martial arts.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><a href=\\\"https:\\/\\/quantumsf.org\\/adult-class-schedule\\/\\\">Check out the current class schedule<\\/a> and <a href=\\\"https:\\/\\/quantumsf.org\\/contact-us\\/\\\">sign up for a free one-week trial<\\/a>.<\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Please see our schedule for more info, and read about the style and the school below. If you would like information about joining the Dojo classes, please fill out our contact form. At Quantum, our focus is on teaching martial arts as a healing modality, encouraging students to seek personal growth and increased awareness by &hellip; <a href=\\\"https:\\/\\/quantumsf.org\\/adults-martial-arts\\/\\\" class=\\\"more-link\\\"><span class=\\\"more-link-text\\\">Read more <span class=\\\"screen-reader-text\\\">Martial Arts for Adults<\\/span><\\/span><\\/a><\\/p>\\n\",\"protected\":false},\"author\":59245587,\"featured_media\":1849,\"parent\":0,\"menu_order\":1,\"comment_status\":\"closed\",\"ping_status\":\"closed\",\"template\":\"\",\"meta\":{\"_coblocks_attr\":\"\",\"_coblocks_dimensions\":\"\",\"_coblocks_responsive_height\":\"\",\"_coblocks_accordion_ie_support\":\"\",\"_crdt_document\":\"\",\"advanced_seo_description\":\"\",\"jetpack_seo_html_title\":\"\",\"jetpack_seo_noindex\":false,\"footnotes\":\"\"},\"tags\":[268522],\"class_list\":[\"post-17\",\"page\",\"type-page\",\"status-publish\",\"has-post-thumbnail\",\"hentry\",\"tag-slider\"],\"jetpack_likes_enabled\":true,\"jetpack_sharing_enabled\":true,\"jetpack_shortlink\":\"https:\\/\\/wp.me\\/P7T7OO-h\",\"amp_enabled\":true,\"_links\":{\"self\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/17\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\"}],\"about\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/types\\/page\"}],\"author\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/users\\/59245587\"}],\"replies\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/comments?post=17\"}],\"version-history\":[{\"count\":26,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/17\\/revisions\"}],\"predecessor-version\":[{\"id\":7808,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/17\\/revisions\\/7808\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media\\/1849\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media?parent=17\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/tags?post=17\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "contact",
+        "schedule",
+        "instructors"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

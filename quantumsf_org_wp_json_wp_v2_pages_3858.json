@@ -1,0 +1,78 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/wp-json/wp/v2/pages/3858",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:23:43.205Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "application/json"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/wp-json/wp/v2/pages/3858",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289823226,
+          "endTime": 1778289823834,
+          "duration": 608
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 1,
+      "by_type": {
+        "document": 1
+      },
+      "failed": 0,
+      "avg_response_time": 608
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 7,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "{\"id\":3858,\"date\":\"2019-05-14T12:57:23\",\"date_gmt\":\"2019-05-14T19:57:23\",\"guid\":{\"rendered\":\"http:\\/\\/quantumsf.org\\/?page_id=3858\"},\"modified\":\"2021-07-06T14:04:18\",\"modified_gmt\":\"2021-07-06T21:04:18\",\"slug\":\"curriculum\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/quantumsf.org\\/teens-martial-arts\\/curriculum\\/\",\"title\":{\"rendered\":\"Teens Curriculum\"},\"content\":{\"rendered\":\"\\n<p class=\\\"wp-block-paragraph\\\">The Teen curriculum at Quantum is based on&nbsp;<em>Tae Kwon Do<\\/em>, and begins to introduce forms from the adult Quantum curriculum, as well as techniques and exercises from <em>Wing Chun<\\/em> and <em>Jui-jitsu<\\/em>. In many <em>TKD<\\/em>&nbsp;and <em>Jui-jitsu<\\/em> schools, tournaments and competitions are the main focus for the students to measure their progress and achievement. This is not the case at Quantum:&nbsp;we provide a place for young people to learn about discipline while having fun, releasing energy, and developing social skills.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><strong>Curriculum<\\/strong><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Students age 6\\u20139 learn our Kids Curriculum, found <a href=\\\"https:\\/\\/quantumsf.org\\/kids-teens-martial-arts-curriculum\\/\\\">here<\\/a>.<br>\\nStudents age 10\\u201314 learn our Teens Curriculum, listed below.<br>\\nStudents age 13+ learn the adult curriculum, found <a href=\\\"https:\\/\\/quantumsf.org\\/adult-martial-arts-curriculum\\/\\\">here<\\/a>.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><strong>Promotions<\\/strong><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Every four to five weeks, we hold a belt test to determine who is ready to move on to the next level. Students will be tested on the curriculum for their current belt, and depending how they do, will be promoted to the next rank. Testings will alternate between weekdays and weekends, and take place during the regularly scheduled kids or teens classes. All students must be in full white uniform with their rank belt in order to participate in a belt test. They also need to be in a full white uniform to receive their promotion at the Belt Ceremony, which occurs one week after the test in their regularly scheduled class.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><strong>Belt Levels<\\/strong><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">In the Teen program, the rank belt has a black stripe down the center. There are two ranks in white belt and four ranks in each of the other color belts. The higher rank is signified by a stripe of the color of the belt that follows. For example&nbsp;a&nbsp;High White Belt would be identified by a pair of yellow stripes on the belt.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">View a big-picture overview of the&nbsp;<a rel=\\\"noreferrer noopener\\\" href=\\\"https:\\/\\/quantumsf.org\\/wp-content\\/uploads\\/2020\\/06\\/teens_curriculum_poster.pdf\\\" target=\\\"_blank\\\">Teens Program rank belt curriculum<\\/a>&nbsp;here. Consider downloading and printing it for visual motivation!<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Click below on the belt you are <em>currently wearing<\\/em> to find information about what you need to know for your next test.<\\/p>\\n\\n\\n\\n<ul class=\\\"wp-block-list\\\"><li><a title=\\\"White Belt\\\" href=\\\"\\/kids-teens-martial-arts-curriculum\\/white-belt\\/\\\">Teen White Belt (Eleventh gup)<\\/a><\\/li><li><a title=\\\"Yellow Belt\\\" href=\\\"\\/kids-teens-martial-arts-curriculum\\/yellow-belt\\/\\\">Teen Yellow Belt (Tenth and Ninth gup)<\\/a><\\/li><li><a title=\\\"Green Belt\\\" href=\\\"\\/kids-teens-martial-arts-curriculum\\/green-belt\\/\\\">Teen Green Belt (Eighth and Seventh gup)<\\/a><\\/li><li><a title=\\\"Blue Belt\\\" href=\\\"\\/kids-teens-martial-arts-curriculum\\/blue-belt\\/\\\">Teen Blue Belt (Sixth and Fifth gup)<\\/a><\\/li><li>Teen Red Belt (Fourth and Third gup) \\u2014&nbsp;check with your Instructor.<\\/li><li>Junior Black Belt \\u2014 check with your Instructor.<\\/li><\\/ul>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><strong>Videos<\\/strong><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Find <a href=\\\"https:\\/\\/quantumsf.org\\/teens-martial-arts\\/teens-distance-learning\\/\\\" data-type=\\\"URL\\\" data-id=\\\"https:\\/\\/quantumsf.org\\/teens-martial-arts\\/teens-distance-learning\\/\\\" target=\\\"_blank\\\" rel=\\\"noreferrer noopener\\\">30-minute video lessons of each form here.<\\/a><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Watch a video of Master Rachael Evans and Assistant Instructor Amy Popovich demonstrating youth curriculum one-steps 1\\u201312 below! <\\/p>\\n\\n\\n\\n<figure class=\\\"wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler\\\"><div class=\\\"wp-block-embed__wrapper\\\">\\n<div style=\\\"width: 640px;\\\" class=\\\"wp-video\\\"><video class=\\\"wp-video-shortcode\\\" id=\\\"video-3858-1\\\" width=\\\"640\\\" height=\\\"360\\\" preload=\\\"metadata\\\" controls=\\\"controls\\\"><source type=\\\"video\\/mp4\\\" src=\\\"https:\\/\\/quantumsf.org\\/wp-content\\/uploads\\/2018\\/06\\/onesteps_kids_rough.mp4?_=1\\\" \\/><a href=\\\"https:\\/\\/quantumsf.org\\/wp-content\\/uploads\\/2018\\/06\\/onesteps_kids_rough.mp4\\\">https:\\/\\/quantumsf.org\\/wp-content\\/uploads\\/2018\\/06\\/onesteps_kids_rough.mp4<\\/a><\\/video><\\/div>\\n<\\/div><\\/figure>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><em>*Please note the curriculum has been updated since this video was filmed. The steps are still the same, but the Teens Program refers to them as White Belt 1\\u20136, and Yellow Belt 1\\u20136. So Teens watching this one-steps video should ignore the embedded graphics as those labels are only current for Kids Program ages 6\\u20139. <\\/em><\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>The Teen curriculum at Quantum is based on&nbsp;Tae Kwon Do, and begins to introduce forms from the adult Quantum curriculum, as well as techniques and exercises from Wing Chun and Jui-jitsu. In many TKD&nbsp;and Jui-jitsu schools, tournaments and competitions are the main focus for the students to measure their progress and achievement. This is not &hellip; <a href=\\\"https:\\/\\/quantumsf.org\\/teens-martial-arts\\/curriculum\\/\\\" class=\\\"more-link\\\"><span class=\\\"more-link-text\\\">Read more <span class=\\\"screen-reader-text\\\">Teens Curriculum<\\/span><\\/span><\\/a><\\/p>\\n\",\"protected\":false},\"author\":59510805,\"featured_media\":1691,\"parent\":1571,\"menu_order\":0,\"comment_status\":\"closed\",\"ping_status\":\"closed\",\"template\":\"\",\"meta\":{\"_coblocks_attr\":\"\",\"_coblocks_dimensions\":\"\",\"_coblocks_responsive_height\":\"\",\"_coblocks_accordion_ie_support\":\"\",\"_crdt_document\":\"\",\"advanced_seo_description\":\"\",\"jetpack_seo_html_title\":\"\",\"jetpack_seo_noindex\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-3858\",\"page\",\"type-page\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"jetpack_likes_enabled\":true,\"jetpack_sharing_enabled\":true,\"jetpack_shortlink\":\"https:\\/\\/wp.me\\/P7T7OO-10e\",\"amp_enabled\":true,\"_links\":{\"self\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/3858\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\"}],\"about\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/types\\/page\"}],\"author\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/users\\/59510805\"}],\"replies\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/comments?post=3858\"}],\"version-history\":[{\"count\":9,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/3858\\/revisions\"}],\"predecessor-version\":[{\"id\":6373,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/3858\\/revisions\\/6373\"}],\"up\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/1571\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media\\/1691\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media?parent=3858\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/tags?post=3858\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "kids",
+        "instructors",
+        "events"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

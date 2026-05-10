@@ -1,0 +1,1075 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/parent-information-pamphlet/",
+    "original_url": "https://quantumsf.org/parent-information-pamphlet",
+    "title": "Parent Information Pamphlet – Quantum Martial Arts San Francisco",
+    "meta_description": "There is a lot to learn about how to get the most out of your child’s training at the Quantum Dojo. Discipline and ‘buying-in’ to the rules and customs of a martial arts dojo is a considerable part of a student’s training. The following New Student Information PDF file contains a wealth of information for…",
+    "canonical": "https://quantumsf.org/parent-information-pamphlet/",
+    "crawl_timestamp": "2026-05-09T01:11:32.214Z",
+    "redirect_chain": [
+      "https://quantumsf.org/parent-information-pamphlet",
+      "https://quantumsf.org/parent-information-pamphlet/"
+    ],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery",
+      "WordPress"
+    ],
+    "versions": {
+      "jQuery": "3.7.1",
+      "WordPress": "Site Kit by Google 1.32.0"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/parent-information-pamphlet",
+        "method": "GET",
+        "status": 301,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289092431,
+          "endTime": 1778289093048,
+          "duration": 617
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289092431,
+          "endTime": 1778289092492,
+          "duration": 61
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289092439,
+          "endTime": 1778289092530,
+          "duration": 91
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289092482,
+          "endTime": 1778289092542,
+          "duration": 60
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289092483,
+          "endTime": 1778289092557,
+          "duration": 74
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289092484,
+          "endTime": 1778289092567,
+          "duration": 83
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289092485,
+          "endTime": 1778289092570,
+          "duration": 85
+        }
+      },
+      {
+        "url": "https://quantumsf.org/parent-information-pamphlet/",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289093048,
+          "endTime": 1778289094296,
+          "duration": 1248
+        }
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=BSgxO_SmK9X_h0BU&ver=2&cmt=0&fs=0&rt=17.655&euri=https%3A%2F%2Fquantumsf.org%2F&lact=17758&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=en_US&cr=AT&len=1275&fexp=v1%2C23848210%2C156434%2C27005591%2C53408%2C34656%2C106030%2C18644%2C117689%2C9252%2C3479%2C13030%2C23206%2C35405%2C34391%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C5237%2C5801%2C1978%2C11423%2C4664%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C11471%2C13159%2C453%2C21067%2C10985%2C5783%2C18263%2C3305%2C895%2C457%2C954%2C2754%2C12586%2C8336%2C1205%2C2196%2C602%2C1023%2C8030%2C9685%2C906%2C13175%2C289%2C4370%2C6692%2C8954%2C2885%2C3859%2C1287%2C2032%2C1190%2C2430%2C2411%2C1169%2C4%2C368%2C2171%2C644%2C2628%2C2316%2C3773%2C2824%2C24%2C2118%2C4892%2C2833%2C70&muted=0&docid=1mZV81-ph4U",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=BgPU18szEwLYnYeV&ver=2&cmt=0&fs=0&rt=17.476&euri=https%3A%2F%2Fquantumsf.org%2F&lact=17559&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=en_US&cr=AT&len=1166&fexp=v1%2C23848210%2C156434%2C27005591%2C53408%2C34656%2C106030%2C18644%2C117689%2C9252%2C3479%2C13030%2C6258%2C16948%2C35405%2C34391%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C5237%2C5801%2C1978%2C11423%2C4664%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C11471%2C13159%2C453%2C21067%2C10985%2C5783%2C18263%2C3305%2C895%2C457%2C954%2C2754%2C12586%2C8336%2C1205%2C2196%2C602%2C1023%2C8030%2C9685%2C906%2C13175%2C289%2C4370%2C6692%2C11839%2C3859%2C1287%2C2032%2C1190%2C2430%2C2411%2C1169%2C4%2C368%2C2171%2C644%2C2628%2C2316%2C3773%2C2824%2C24%2C2118%2C4892%2C2833%2C70&muted=0&docid=aDTWTdZBQ8I",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=OLpInjfsOrbh1orV&ver=2&cmt=0&fs=0&rt=16.006&euri=https%3A%2F%2Fquantumsf.org%2F&lact=16087&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=en_US&cr=AT&len=1810&fexp=v1%2C23848210%2C156434%2C27005591%2C53408%2C34656%2C106030%2C18644%2C117689%2C9252%2C3479%2C13030%2C23206%2C35405%2C34391%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C5237%2C5801%2C1978%2C11423%2C4664%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C11471%2C13159%2C453%2C21067%2C10985%2C5783%2C18263%2C3305%2C895%2C457%2C954%2C2754%2C12586%2C8336%2C1205%2C2196%2C602%2C1023%2C8030%2C9685%2C906%2C13175%2C289%2C4370%2C6692%2C8954%2C2885%2C3859%2C1287%2C2032%2C1190%2C2430%2C2411%2C1169%2C4%2C368%2C2171%2C644%2C2628%2C2316%2C3773%2C2824%2C24%2C2118%2C4892%2C2833%2C70&muted=0&docid=7BjZkGH14Nw",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=jjAHTTAxvoCnwtk7&ver=2&cmt=0&fs=0&rt=18.586&euri=https%3A%2F%2Fquantumsf.org%2F&lact=18693&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=en_US&cr=AT&len=1543&fexp=v1%2C23848210%2C156434%2C27005591%2C53408%2C34656%2C106030%2C18644%2C117689%2C9252%2C3479%2C13030%2C23206%2C35405%2C34391%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C5237%2C5801%2C1978%2C11423%2C4664%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C11471%2C13159%2C453%2C21067%2C10985%2C5783%2C18263%2C3305%2C895%2C457%2C954%2C2754%2C12586%2C8336%2C1205%2C2196%2C602%2C1023%2C8030%2C9685%2C906%2C13175%2C289%2C4370%2C6692%2C11839%2C3859%2C1287%2C2032%2C1190%2C2430%2C2411%2C1169%2C4%2C368%2C2171%2C644%2C2628%2C2316%2C3773%2C2824%2C24%2C2118%2C4892%2C2833%2C70&muted=0&docid=MLHid0GBMYc",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=UiUQYyt5Mq5Me13P&ver=2&cmt=0&fs=0&rt=18.309&euri=https%3A%2F%2Fquantumsf.org%2F&lact=18408&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=en_US&cr=AT&len=1932&fexp=v1%2C23848210%2C156434%2C27005591%2C53408%2C34656%2C106030%2C18644%2C117689%2C9252%2C3479%2C13030%2C23206%2C35405%2C34391%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C5237%2C5801%2C1978%2C11423%2C4664%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C11471%2C13159%2C453%2C21067%2C10985%2C5783%2C18263%2C3305%2C895%2C457%2C954%2C2754%2C12586%2C8336%2C1205%2C2196%2C602%2C1023%2C8030%2C9685%2C906%2C13175%2C289%2C4370%2C6692%2C8954%2C2885%2C3859%2C1287%2C2032%2C1190%2C2430%2C2411%2C1169%2C4%2C368%2C2171%2C644%2C2628%2C2316%2C3773%2C2824%2C24%2C2118%2C4892%2C2833%2C70&muted=0&docid=kB3w9xtLywM",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=2gWMtdidCUD4xnwO&ver=2&cmt=0&fs=0&rt=16.693&euri=https%3A%2F%2Fquantumsf.org%2F&lact=16779&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=en_US&cr=AT&len=1246&fexp=v1%2C23848210%2C156434%2C27005591%2C53408%2C34656%2C106030%2C18644%2C117689%2C9252%2C3479%2C13030%2C23206%2C35405%2C34391%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C5237%2C5801%2C1978%2C11423%2C4664%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C11471%2C13159%2C453%2C21067%2C10985%2C5783%2C18263%2C3305%2C895%2C457%2C954%2C2754%2C12586%2C8336%2C1205%2C2196%2C602%2C1023%2C8030%2C9685%2C906%2C13175%2C289%2C4370%2C6692%2C8954%2C2885%2C3859%2C1287%2C2032%2C1190%2C2430%2C2411%2C1169%2C4%2C368%2C2171%2C644%2C2628%2C2316%2C3773%2C2824%2C24%2C2118%2C4892%2C2833%2C70&muted=0&docid=Uqp21feIbok",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=sNkVgm-c-DMSG8IE&ver=2&cmt=0&fs=0&rt=15.872&euri=https%3A%2F%2Fquantumsf.org%2F&lact=15970&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=en_US&cr=AT&len=3567&fexp=v1%2C23848210%2C156434%2C27005591%2C53408%2C34656%2C106030%2C18644%2C117689%2C9252%2C3479%2C13030%2C23206%2C35405%2C34391%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C5237%2C5801%2C1978%2C11423%2C4664%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C11471%2C13159%2C453%2C21067%2C10985%2C5783%2C18263%2C3305%2C895%2C457%2C954%2C2754%2C12586%2C8336%2C1205%2C2196%2C602%2C1023%2C8030%2C9685%2C906%2C13175%2C289%2C4370%2C6692%2C8954%2C2885%2C3859%2C1287%2C2032%2C1190%2C2430%2C2411%2C1169%2C4%2C368%2C2171%2C644%2C2628%2C2316%2C3773%2C2824%2C24%2C2118%2C4892%2C2833%2C70&muted=0&docid=1Qj7PnlhSV8",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=ifodcWbMwmpNNfPi&ver=2&cmt=0&fs=0&rt=17.326&euri=https%3A%2F%2Fquantumsf.org%2F&lact=17418&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=en_US&cr=AT&len=3786&fexp=v1%2C23848210%2C156434%2C27005591%2C53408%2C34656%2C106030%2C18644%2C117689%2C9252%2C3479%2C13030%2C23206%2C35405%2C34391%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C5237%2C5801%2C1978%2C11423%2C4664%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C11471%2C13159%2C453%2C21067%2C10985%2C5783%2C18263%2C3305%2C895%2C457%2C954%2C2754%2C12586%2C8336%2C1205%2C2196%2C602%2C1023%2C8030%2C9685%2C906%2C13175%2C289%2C4370%2C6692%2C11839%2C3859%2C1287%2C2032%2C1190%2C2430%2C2411%2C1169%2C4%2C368%2C2171%2C644%2C2628%2C2316%2C3773%2C2824%2C24%2C2118%2C4892%2C2833%2C70&muted=0&docid=ej3O7Fop7hw",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=AvnJmfPLlhc6nLU_&ver=2&cmt=0&fs=0&rt=8.156&euri=https%3A%2F%2Fquantumsf.org%2F&lact=8235&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=en_US&cr=AT&len=3571&fexp=v1%2C23848210%2C156434%2C27005591%2C53408%2C34656%2C106030%2C18644%2C117689%2C9252%2C3479%2C13030%2C23206%2C35405%2C34391%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C5237%2C5801%2C1978%2C11423%2C4664%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C11471%2C13159%2C453%2C21067%2C10985%2C5783%2C18263%2C3305%2C895%2C457%2C954%2C2754%2C12586%2C8336%2C1205%2C2196%2C602%2C1023%2C8030%2C9685%2C906%2C13175%2C289%2C4370%2C6692%2C8954%2C2885%2C3859%2C1287%2C2032%2C1190%2C2430%2C2411%2C1169%2C4%2C368%2C2171%2C644%2C2628%2C2316%2C3773%2C2824%2C24%2C2118%2C4892%2C2833%2C70&muted=0&docid=2dhIrs68V8w",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=YVJbWEolIGJctd0a&ver=2&cmt=0&fs=0&rt=6.977&euri=https%3A%2F%2Fquantumsf.org%2F&lact=7070&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=en_US&cr=AT&len=3469&fexp=v1%2C23848210%2C156434%2C27005591%2C53408%2C34656%2C106030%2C18644%2C117689%2C9252%2C3479%2C13030%2C23206%2C35405%2C34391%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C5237%2C5801%2C1978%2C11423%2C4664%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C11471%2C13159%2C453%2C21067%2C10985%2C5783%2C18263%2C3305%2C895%2C457%2C954%2C2754%2C12586%2C8336%2C1205%2C2196%2C602%2C1023%2C8030%2C9685%2C906%2C13175%2C289%2C4370%2C6692%2C8954%2C2885%2C3859%2C1287%2C2032%2C1190%2C2430%2C2411%2C1169%2C4%2C368%2C2171%2C644%2C2628%2C2316%2C3773%2C2824%2C24%2C2118%2C4892%2C2833%2C70&muted=0&docid=GDMhsHdLN0s",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=2T8hYJM3KA9lUkTe&ver=2&cmt=0&fs=0&rt=7.358&euri=https%3A%2F%2Fquantumsf.org%2F&lact=7444&cl=910468478&mos=0&volume=100&c=WEB_EMBEDDED_PLAYER&cver=2.20260508.01.00&cplayer=UNIPLAYER&cos=%2Bhttps%3A%2F%2Fgithub.com%2Fportfolio-scraper&cplatform=DESKTOP&epm=1&hl=en_US&cr=AT&len=3604&fexp=v1%2C23848210%2C156434%2C27005591%2C53408%2C34656%2C106030%2C18644%2C117689%2C9252%2C3479%2C13030%2C23206%2C35405%2C34391%2C30906%2C15105%2C25059%2C4174%2C30447%2C18705%2C21437%2C4571%2C5237%2C5801%2C1978%2C11423%2C4664%2C9404%2C23826%2C9500%2C1840%2C22474%2C11771%2C11471%2C13159%2C453%2C21067%2C10985%2C5783%2C18263%2C3305%2C895%2C457%2C954%2C2754%2C12586%2C8336%2C1205%2C2196%2C602%2C1023%2C8030%2C9685%2C906%2C13175%2C289%2C4370%2C6692%2C8954%2C2885%2C3859%2C1287%2C2032%2C1190%2C2430%2C2411%2C1169%2C4%2C368%2C2171%2C644%2C2628%2C2316%2C3773%2C2824%2C24%2C2118%2C4892%2C2833%2C70&muted=0&docid=U3miNUozpGU",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 0,
+        "type": "xhr",
+        "initiator": "failed: net::ERR_ABORTED",
+        "timing": null
+      },
+      {
+        "url": "https://pixel.wp.com/boom.gif?bilmur=1&batcache_hit=0&provider=wordpress.com&service=atomic&site_tz=America%2FLos_Angeles&custom_props=%7B%22woo_active%22%3A%220%22%2C%22logged_in%22%3A%220%22%2C%22wptheme%22%3A%22radiate%22%2C%22wptheme_is_block%22%3A%220%22%7D&rtt=0&downlink=9400&site_host=quantumsf.org&site_path=%2Fteens-martial-arts%2Fteens-distance-learning%2F&full_path=%2Fteens-martial-arts%2Fteens-distance-learning%2F&version=4.4.0&edge_dc=vie&edge_status=MISS&edge_dur=1393&nt=2--1u0_1u0_2_oq_oq_oz_oz_oz_oz_oz_oz_1tp_1zl_1uk_2ad_2b2_2b3_7kr_7kr_7l2--0_1_0_1tp--h3&reporter=fetchLater&fcp=2832&fcp_raw=2832&fp_raw=2832&lcp=2876&lcp_raw=2876&lcp_sel=%23post-4542%3Ediv.content-wrapper%3Ediv.entry-content%3Ep.wp-block-paragraph&lcp_type=text&cls=0.123&ttfb=2365&nav_type=navigate",
+        "method": "GET",
+        "status": null,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": null
+      },
+      {
+        "url": "https://quantumsf.org/_static/??-eJyVzkEOwjAMBMAPYSyo1HJBvCU4oUQkdlW7BH5PSukFiQNXa2fXZQAStsCGQ5r6yIok5yR0U/RRDdWeKcB6g/CoWY3CuiXVTfmTO47ZWeXfOk+wFpSBJOsV74G9jOgmk2osElpdhxx8dFCi74PBu75uamXLZc78fo3NkcFFxgwdRqY0+Q9fmmZ5ysdd1x32bds07QtIe22a",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095645,
+          "endTime": 1778289095646,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/simple-embed-code/css/video-container.min.css?m=1773883529",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095650,
+          "endTime": 1778289095655,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/css/dashicons.min.css?ver=6.9.4",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095656,
+          "endTime": 1778289095661,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-content/plugins/gutenberg/build/styles/components/style.min.css,wp-content/plugins/coblocks/includes/Dependencies/GoDaddy/Styles/build/latest.css?m=1778166270",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095662,
+          "endTime": 1778289095814,
+          "duration": 152
+        }
+      },
+      {
+        "url": "https://fonts-api.wp.com/css?family=Roboto%3A400%2C700%7CMerriweather%3A400%2C300&subset=latin%2Clatin-ext",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095662,
+          "endTime": 1778289095664,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css,wp-content/themes/radiate/style.css?m=1771843756",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095667,
+          "endTime": 1778289095676,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/themes/radiate/inc/style-wpcom.css?m=1461872125",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095677,
+          "endTime": 1778289095841,
+          "duration": 164
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095677,
+          "endTime": 1778289095679,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-includes/js/jquery/jquery-migrate.min.js,wp-content/themes/radiate/js/custom.js?m=1686289764",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095679,
+          "endTime": 1778289095693,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/02/quantum_rework_logo_500x500_trans.png?fit=60%2C60&ssl=1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095694,
+          "endTime": 1778289095698,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/09/yelp_button.png?resize=150%2C47&ssl=1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095699,
+          "endTime": 1778289095710,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_cc_147x47.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095710,
+          "endTime": 1778289095714,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://s0.wp.com/wp-content/js/bilmur.min.js?m=202619",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095715,
+          "endTime": 1778289095727,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?m=1719276502",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095727,
+          "endTime": 1778289095730,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/hooks/index.min.js?ver=7496969728ca0f95732d",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095731,
+          "endTime": 1778289095734,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/i18n/index.min.js?ver=125448662852c5e18937",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095734,
+          "endTime": 1778289095738,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1744852765",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095740,
+          "endTime": 1778289095745,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095745,
+          "endTime": 1778289095752,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??-eJx9zUkOwjAMQNELkVotg2CBOApyEqc4gxPhhHJ8xJYF+//0t2ZclU7SoT+okMITPWMniAqCL16xc5Up6m77l2riZjJLMqG6oSbw+8e0PFYWhUi9oUtwZ3FgB2cPAR3ZWpOhYslPhb+/W7nOp8N8WfbH5fwB3Dk9XA==",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095752,
+          "endTime": 1778289095759,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://stats.wp.com/e-202619.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095800,
+          "endTime": 1778289095801,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrgCcaGl3w.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095843,
+          "endTime": 1778289095856,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icaGl3w.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095856,
+          "endTime": 1778289095878,
+          "duration": 22
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095879,
+          "endTime": 1778289095894,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/uploads/2016/12/shutterstock_329138189_1000x1000.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095895,
+          "endTime": 1778289095913,
+          "duration": 18
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/sdk.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095914,
+          "endTime": 1778289095925,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://pixel.wp.com/g.gif?v=ext&blog=116572450&post=2639&tz=-7&srv=quantumsf.org&hp=atomic&ac=2&amp=0&j=1%3A15.8&host=quantumsf.org&ref=&fcp=0&rand=0.2334097605725427",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095914,
+          "endTime": 1778289095963,
+          "duration": 49
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095915,
+          "endTime": 1778289095943,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/bundle/sdk.js/",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289095933,
+          "endTime": 1778289095981,
+          "duration": 48
+        }
+      },
+      {
+        "url": "https://www.facebook.com/v2.3/plugins/page.php?app_id=249643311490&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df975896a2eea1c7ad%26domain%3Dquantumsf.org%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fquantumsf.org%252Ff4c7acb10ab36b77f%26relation%3Dparent.parent&container_width=281&height=432&hide_cover=false&hide_cta=false&href=https%3A%2F%2Fwww.facebook.com%2Fquantumsf&locale=en_US&sdk=joey&show_facepile=true&small_header=false&tabs=false&width=340",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289095985,
+          "endTime": 1778289096032,
+          "duration": 47
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y3/l/0,cross/B57LQ6dEpt0.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096096,
+          "endTime": 1778289096186,
+          "duration": 90
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/Uu-GGVUS6aZ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096188,
+          "endTime": 1778289096194,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/KI4kVMPB_xX.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096194,
+          "endTime": 1778289096199,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4i7M54/yi/l/en_US-j/ZSAm2KyddJ2.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096200,
+          "endTime": 1778289096201,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4issO4/y8/l/en_US-j/BqrUK47pxRc.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096201,
+          "endTime": 1778289096208,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yy/r/FYabRVBZzIf.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096209,
+          "endTime": 1778289096217,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/e0qnL2dG90H.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096218,
+          "endTime": 1778289096219,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://scontent.xx.fbcdn.net/v/t39.30808-1/301931905_517434093590957_5939348572974433876_n.png?stp=cp0_dst-png_s50x50&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=9TudK746nBkQ7kNvwHkSGQm&_nc_oc=AdoCS0kpudrJnBxg-_7wUR6M7Z-aEWzqqouH3buXP7NzKNO-zXUmi_cZnEEI9tcSJEc&_nc_zt=24&_nc_ht=scontent.xx&edm=AItmks8EAAAA&_nc_gid=jtu8CAUHHFRXLKremSzI4w&oh=00_Af5Vttg-qEcJNGYFLZsEmj9DxCfFRa865IHkRneXEMCZ_w&oe=6A047513",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096228,
+          "endTime": 1778289096231,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/UPw3RAV2r8i.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096254,
+          "endTime": 1778289096261,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/c_itVLXCmal.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096262,
+          "endTime": 1778289096263,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.facebook.com/v2.3/plugins/page.php?app_id=249643311490&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df1c8055fde42ca363%26domain%3Dquantumsf.org%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fquantumsf.org%252Ff4c7acb10ab36b77f%26relation%3Dparent.parent&container_width=0&height=432&hide_cover=false&hide_cta=false&href=https%3A%2F%2Fwww.facebook.com%2Fquantumsf&locale=en_US&sdk=joey&show_facepile=true&small_header=false&tabs=false&width=340",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289096273,
+          "endTime": 1778289096379,
+          "duration": 106
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y3/l/0,cross/B57LQ6dEpt0.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096447,
+          "endTime": 1778289096458,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/Uu-GGVUS6aZ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096459,
+          "endTime": 1778289096464,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/KI4kVMPB_xX.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096469,
+          "endTime": 1778289096477,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4i7M54/yi/l/en_US-j/ZSAm2KyddJ2.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096477,
+          "endTime": 1778289096482,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4issO4/y8/l/en_US-j/BqrUK47pxRc.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096482,
+          "endTime": 1778289096486,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yy/r/FYabRVBZzIf.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096486,
+          "endTime": 1778289096495,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/e0qnL2dG90H.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096496,
+          "endTime": 1778289096500,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://scontent.xx.fbcdn.net/v/t39.30808-1/301931905_517434093590957_5939348572974433876_n.png?stp=cp0_dst-png_s50x50&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=9TudK746nBkQ7kNvwHkSGQm&_nc_oc=AdoCS0kpudrJnBxg-_7wUR6M7Z-aEWzqqouH3buXP7NzKNO-zXUmi_cZnEEI9tcSJEc&_nc_zt=24&_nc_ht=scontent.xx&edm=AItmks8EAAAA&_nc_gid=4pNkUKye8-XfXN9WmJuphw&oh=00_Af7P86QPoQt_hx1y8YwHiajlCTFua5uqLpCwMS8Bdjy5ag&oe=6A047513",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096500,
+          "endTime": 1778289096504,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/UPw3RAV2r8i.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096514,
+          "endTime": 1778289096518,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/c_itVLXCmal.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289096519,
+          "endTime": 1778289096526,
+          "duration": 7
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org",
+      "www.youtube.com",
+      "pixel.wp.com",
+      "fonts-api.wp.com",
+      "i0.wp.com",
+      "www.paypalobjects.com",
+      "s0.wp.com",
+      "stats.wp.com",
+      "fonts.wp.com",
+      "connect.facebook.net",
+      "www.facebook.com",
+      "static.xx.fbcdn.net",
+      "scontent.xx.fbcdn.net"
+    ],
+    "aggregates": {
+      "total_requests": 81,
+      "by_type": {
+        "document": 4,
+        "xhr": 28,
+        "fetch": 1,
+        "stylesheet": 9,
+        "script": 27,
+        "image": 9,
+        "font": 3
+      },
+      "failed": 22,
+      "avg_response_time": 40.50617283950617
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 272,
+    "max_depth": 15,
+    "script_counts": {
+      "inline": 8,
+      "external": 13,
+      "async": 1,
+      "defer": 3,
+      "blocking": 9
+    },
+    "blocking_resources": [
+      "https://connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3",
+      "https://quantumsf.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://quantumsf.org/_static/??wp-includes/js/jquery/jquery-migrate.min.js,wp-content/themes/radiate/js/custom.js?m=1686289764",
+      "https://quantumsf.org/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?m=1719276502",
+      "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/hooks/index.min.js?ver=7496969728ca0f95732d",
+      "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/i18n/index.min.js?ver=125448662852c5e18937",
+      "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1744852765",
+      "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+      "https://quantumsf.org/_static/??-eJx9zUkOwjAMQNELkVotg2CBOApyEqc4gxPhhHJ8xJYF+//0t2ZclU7SoT+okMITPWMniAqCL16xc5Up6m77l2riZjJLMqG6oSbw+8e0PFYWhUi9oUtwZ3FgB2cPAR3ZWpOhYslPhb+/W7nOp8N8WfbH5fwB3Dk9XA==",
+      "https://quantumsf.org/_static/??-eJyVzkEOwjAMBMAPYSyo1HJBvCU4oUQkdlW7BH5PSukFiQNXa2fXZQAStsCGQ5r6yIok5yR0U/RRDdWeKcB6g/CoWY3CuiXVTfmTO47ZWeXfOk+wFpSBJOsV74G9jOgmk2osElpdhxx8dFCi74PBu75uamXLZc78fo3NkcFFxgwdRqY0+Q9fmmZ5ysdd1x32bds07QtIe22a",
+      "https://quantumsf.org/wp-content/plugins/simple-embed-code/css/video-container.min.css?m=1773883529",
+      "https://quantumsf.org/wp-includes/css/dashicons.min.css?ver=6.9.4",
+      "https://quantumsf.org/_static/??wp-content/plugins/gutenberg/build/styles/components/style.min.css,wp-content/plugins/coblocks/includes/Dependencies/GoDaddy/Styles/build/latest.css?m=1778166270",
+      "https://fonts-api.wp.com/css?family=Roboto%3A400%2C700%7CMerriweather%3A400%2C300&subset=latin%2Clatin-ext",
+      "https://quantumsf.org/_static/??wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css,wp-content/themes/radiate/style.css?m=1771843756",
+      "https://quantumsf.org/wp-content/themes/radiate/inc/style-wpcom.css?m=1461872125"
+    ]
+  },
+  "content": {
+    "visible_text": "Parent Information Pamphlet There is a lot to learn about how to get the most out of your child’s training at the Quantum Dojo. Discipline and ‘buying-in’ to the rules and customs of a martial arts dojo is a considerable part of a student’s training. The following New Student Information PDF file contains a wealth of information for parents of enrolled students at Quantum, including tips on how to wash and wear the uniform, info about testings, Dojo rules, advice for successful attendance, and contact information of Instructors and Assistant Instructors. Printed copies are also available at the Dojo. Versión en español próximamente. Click here to view or download the Quantum Youth Programs New Student Information booklet. Reviews Facebook Community Dojo Quantum Martial Arts is a registered 501(c)(3) nonprofit in the State of California, and we thrive on the generosity of people like you. All donations are tax-deductible. Quantum’s tax ID number is 26-1534597. No donation is too small, or too large. Whether it’s $20 or $20,000, every cent will be hugely appreciated and put to good use. Support Our Kids Donate now to support our youth scholarship program which allows families in need to train at reduced cost. We believe investment in our community involves investing in our youth. Our Sister Schools Our Seattle Dojo has served thousands of students since opening on Capitol Hill in 1995, and currently offers youth and adult classes in the Central District. Our Portland Dojo was established in 2020, and currently offers youth and adult classes in Southeast Portland. A WordPress.com Website .",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Parent Information Pamphlet"
+      },
+      {
+        "level": "h3",
+        "text": "Reviews"
+      },
+      {
+        "level": "h3",
+        "text": "Facebook"
+      },
+      {
+        "level": "h3",
+        "text": "Community Dojo"
+      },
+      {
+        "level": "h3",
+        "text": "Support Our Kids"
+      },
+      {
+        "level": "h3",
+        "text": "Our Sister Schools"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Search",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Class Schedule",
+        "type": "link",
+        "href": "https://quantumsf.org/adult-class-schedule/"
+      },
+      {
+        "text": "Contact Us",
+        "type": "link",
+        "href": "https://quantumsf.org/contact-us/"
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://quantumsf.org/schedule/"
+      },
+      {
+        "text": "Click here to view or download the Quantum Youth Programs New Student Information booklet.",
+        "type": "link",
+        "href": "https://quantumsf.org/wp-content/uploads/2022/06/Summer2022_Quantum_Youth_Student_Info_Web.pdf"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "kids",
+        "testimonials",
+        "pricing"
+      ]
+    },
+    "hierarchy_summary": "h1: Parent Information Pamphlet\n    h3: Reviews\n    h3: Facebook\n    h3: Community Dojo\n    h3: Support Our Kids\n    h3: Our Sister Schools"
+  },
+  "images": [
+    {
+      "src": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/02/quantum_rework_logo_500x500_trans.png?fit=60%2C60&ssl=1",
+      "page_url": "https://quantumsf.org/parent-information-pamphlet/",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/09/yelp_button.png?resize=150%2C47&ssl=1",
+      "page_url": "https://quantumsf.org/parent-information-pamphlet/",
+      "alt": "yelp_button",
+      "surrounding_text": "yelp_button",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_cc_147x47.png",
+      "page_url": "https://quantumsf.org/parent-information-pamphlet/",
+      "alt": "Donate with Paypal",
+      "surrounding_text": "Donate with Paypal",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://pixel.wp.com/g.gif?v=ext&blog=116572450&post=2639&tz=-7&srv=quantumsf.org&hp=atomic&ac=2&amp=0&j=1%3A15.8&host=quantumsf.org&ref=&fcp=0&rand=0.2334097605725427",
+      "page_url": "https://quantumsf.org/parent-information-pamphlet/",
+      "alt": "",
+      "surrounding_text": "/* <![CDATA[ */\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\n//# sourceURL=wp-i18n-js-after\n/* ]]> */ /* <![CDATA[ */\nvar jpfbembed = {\"appid\":\"249643311490\",\"locale\":\"en_US\"};\n//# sourceURL=jetpack-facebook-embed-js-extra\n/* ]]> */",
+      "inferred_purpose": "logo"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Meta Pixel"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [
+      "YouTube Embed"
+    ],
+    "other": []
+  }
+}

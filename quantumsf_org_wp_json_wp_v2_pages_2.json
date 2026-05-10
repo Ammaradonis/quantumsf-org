@@ -1,0 +1,78 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/wp-json/wp/v2/pages/2",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:19:50.653Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "application/json"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/wp-json/wp/v2/pages/2",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289590679,
+          "endTime": 1778289591660,
+          "duration": 981
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 1,
+      "by_type": {
+        "document": 1
+      },
+      "failed": 0,
+      "avg_response_time": 981
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 7,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "{\"id\":2,\"date\":\"2016-09-11T21:57:54\",\"date_gmt\":\"2016-09-11T21:57:54\",\"guid\":{\"rendered\":\"https:\\/\\/quantumsf.org\\/?page_id=2\"},\"modified\":\"2021-09-28T12:05:12\",\"modified_gmt\":\"2021-09-28T19:05:12\",\"slug\":\"about-us\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/quantumsf.org\\/\",\"title\":{\"rendered\":\"About Us\"},\"content\":{\"rendered\":\"<p>The Quantum Dojo is a nonprofit community studio offering martial arts classes for all ages focused on self-actualization, total body healing,\\u00a0and strength. Our goal is to help people tap into their potential, seeking balance and grace through movement, while establishing a strong foundation of integrity and self-discipline that will facilitate personal and professional success.<\\/p>\\n<p>In the spirit of this mission, we offer\\u00a0<a href=\\\"\\/adults-martial-arts\\/\\\">martial arts classes for adults<\\/a> and <a href=\\\"\\/kids-martial-arts\\/\\\">martial arts classes for kids<\\/a>, as well as community events\\u00a0such as <a href=\\\"\\/rolling-falling-for-cyclists\\/\\\">rolling &amp; falling for cyclists workshops<\\/a>\\u00a0and self-defense classes.<\\/p>\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>This is just a short excerpt for the about&nbsp;page.<a href=\\\"https:\\/\\/quantumsf.org\\/\\\" class=\\\"more-link\\\"><span class=\\\"more-link-text\\\">Read more <span class=\\\"screen-reader-text\\\">About Us<\\/span><\\/span><\\/a><\\/p>\\n\",\"protected\":false},\"author\":59245587,\"featured_media\":1611,\"parent\":0,\"menu_order\":1,\"comment_status\":\"closed\",\"ping_status\":\"closed\",\"template\":\"\",\"meta\":{\"_coblocks_attr\":\"\",\"_coblocks_dimensions\":\"\",\"_coblocks_responsive_height\":\"\",\"_coblocks_accordion_ie_support\":\"\",\"_crdt_document\":\"\",\"advanced_seo_description\":\"\",\"jetpack_seo_html_title\":\"\",\"jetpack_seo_noindex\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-2\",\"page\",\"type-page\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"jetpack_likes_enabled\":true,\"jetpack_sharing_enabled\":true,\"jetpack_shortlink\":\"https:\\/\\/wp.me\\/P7T7OO-2\",\"amp_enabled\":false,\"_links\":{\"self\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/2\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\"}],\"about\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/types\\/page\"}],\"author\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/users\\/59245587\"}],\"replies\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/comments?post=2\"}],\"version-history\":[{\"count\":10,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/2\\/revisions\"}],\"predecessor-version\":[{\"id\":6454,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/2\\/revisions\\/6454\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media\\/1611\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media?parent=2\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/tags?post=2\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "about",
+        "gallery",
+        "events"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

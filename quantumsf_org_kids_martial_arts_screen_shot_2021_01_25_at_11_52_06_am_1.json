@@ -1,0 +1,990 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1/",
+    "original_url": "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1",
+    "title": "Screen-Shot-2021-01-25-at-11.52.06-AM-1 – Quantum Martial Arts San Francisco",
+    "meta_description": "Nonprofit Martial Arts School in San Francisco's Mission District",
+    "canonical": "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1/",
+    "crawl_timestamp": "2026-05-09T01:25:09.209Z",
+    "redirect_chain": [
+      "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1",
+      "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1/"
+    ],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery",
+      "WordPress"
+    ],
+    "versions": {
+      "jQuery": "3.7.1",
+      "WordPress": "Site Kit by Google 1.32.0"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1",
+        "method": "GET",
+        "status": 301,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289909247,
+          "endTime": 1778289909809,
+          "duration": 562
+        }
+      },
+      {
+        "url": "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1/",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289909810,
+          "endTime": 1778289911040,
+          "duration": 1230
+        }
+      },
+      {
+        "url": "https://pixel.wp.com/boom.gif?bilmur=1&batcache_hit=0&provider=wordpress.com&service=atomic&site_tz=America%2FLos_Angeles&custom_props=%7B%22woo_active%22%3A%220%22%2C%22logged_in%22%3A%220%22%2C%22wptheme%22%3A%22radiate%22%2C%22wptheme_is_block%22%3A%220%22%7D&rtt=0&downlink=9400&site_host=quantumsf.org&site_path=%2Fkids-martial-arts%2Fcopy-of-img_2703-2%2F&full_path=%2Fkids-martial-arts%2Fcopy-of-img_2703-2%2F&version=4.4.0&edge_dc=vie&edge_status=MISS&edge_dur=1102&nt=2--1bh_1bh_0_ep_ep_ep_ep_ep_ep_ep_f4_1b7_1ci_1bt_1fj_1ke_1kg_2rn_2rn_2ru--0_1_0_1b7--h3&reporter=fetchLater&fcp=2036&fcp_raw=2036&fp_raw=2036&lcp=2140&lcp_prio=high&lcp_raw=2140&lcp_sel=%23post-5632%3Ediv.content-wrapper%3Ediv.entry-content%3Ep.attachment%3Ea%3Eimg.attachment-medium.size-medium&lcp_type=img&cls=0.124&lcp_res=https%3A%2F%2Fi0.wp.com%2Fquantumsf.org%2Fwp-content%2Fuploads%2F2021%2F01%2FCopy-of-IMG_2703-2.jpeg%3Fresize%3D300%252C199%26ssl%3D1&lcp_pre=0&ttfb=1700&nav_type=navigate",
+        "method": "GET",
+        "status": null,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": null
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-content/mu-plugins/wpcomsh/vendor/automattic/text-media-widget-styles/css/widget-text.css,wp-content/plugins/contact-form-7/includes/css/styles.css?m=1778266336",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911070,
+          "endTime": 1778289911140,
+          "duration": 70
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/simple-embed-code/css/video-container.min.css?m=1773883529",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911141,
+          "endTime": 1778289911189,
+          "duration": 48
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/css/dashicons.min.css?ver=6.9.4",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911190,
+          "endTime": 1778289911218,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-content/plugins/gutenberg/build/styles/components/style.min.css,wp-content/plugins/coblocks/includes/Dependencies/GoDaddy/Styles/build/latest.css?m=1778166270",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911219,
+          "endTime": 1778289911276,
+          "duration": 57
+        }
+      },
+      {
+        "url": "https://fonts-api.wp.com/css?family=Roboto%3A400%2C700%7CMerriweather%3A400%2C300&subset=latin%2Clatin-ext",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911277,
+          "endTime": 1778289911316,
+          "duration": 39
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css,wp-content/themes/radiate/style.css?m=1771843756",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911317,
+          "endTime": 1778289911347,
+          "duration": 30
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/themes/radiate/inc/style-wpcom.css?m=1461872125",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911348,
+          "endTime": 1778289911469,
+          "duration": 121
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911471,
+          "endTime": 1778289911614,
+          "duration": 143
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-includes/js/jquery/jquery-migrate.min.js,wp-content/themes/radiate/js/custom.js?m=1686289764",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911625,
+          "endTime": 1778289911713,
+          "duration": 88
+        }
+      },
+      {
+        "url": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/02/quantum_rework_logo_500x500_trans.png?fit=60%2C60&ssl=1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911713,
+          "endTime": 1778289911793,
+          "duration": 80
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrgCcaGl3w.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911853,
+          "endTime": 1778289911879,
+          "duration": 26
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icaGl3w.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911880,
+          "endTime": 1778289911919,
+          "duration": 39
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911920,
+          "endTime": 1778289911944,
+          "duration": 24
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmaiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911945,
+          "endTime": 1778289911986,
+          "duration": 41
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/uploads/2016/12/shutterstock_329138189_1000x1000.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289911987,
+          "endTime": 1778289912021,
+          "duration": 34
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/jetpack-comment/?blogid=116572450&postid=5633&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=identicon&greeting=Leave+a+Reply&jetpack_comments_nonce=37b00c2527&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_US&jetpack_version=15.8&iframe_unique_id=1&show_cookie_consent=10&has_cookie_consent=0&is_current_user_subscribed=0&token_key=%3Bnormal%3B&sig=5ab495cddcb5c964944dca6d4beda089c7170d05",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289912023,
+          "endTime": 1778289912554,
+          "duration": 531
+        }
+      },
+      {
+        "url": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2021/01/Screen-Shot-2021-01-25-at-11.52.06-AM-1.png?resize=300%2C204&ssl=1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912024,
+          "endTime": 1778289912889,
+          "duration": 865
+        }
+      },
+      {
+        "url": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/09/yelp_button.png?resize=150%2C47&ssl=1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912025,
+          "endTime": 1778289912058,
+          "duration": 33
+        }
+      },
+      {
+        "url": "https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_cc_147x47.png",
+        "method": "GET",
+        "status": 304,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912059,
+          "endTime": 1778289912278,
+          "duration": 219
+        }
+      },
+      {
+        "url": "https://s0.wp.com/wp-content/js/bilmur.min.js?m=202619",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912060,
+          "endTime": 1778289912097,
+          "duration": 37
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?m=1719276502",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912106,
+          "endTime": 1778289912133,
+          "duration": 27
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/hooks/index.min.js?ver=7496969728ca0f95732d",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912134,
+          "endTime": 1778289912163,
+          "duration": 29
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/i18n/index.min.js?ver=125448662852c5e18937",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912164,
+          "endTime": 1778289912196,
+          "duration": 32
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1744852765",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912197,
+          "endTime": 1778289912223,
+          "duration": 26
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912223,
+          "endTime": 1778289912247,
+          "duration": 24
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-content/themes/radiate/js/navigation.js,wp-content/themes/radiate/js/skip-link-focus-fix.js?m=1491408683",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912282,
+          "endTime": 1778289912317,
+          "duration": 35
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/js/comment-reply.min.js?ver=6.9.4",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912317,
+          "endTime": 1778289912346,
+          "duration": 29
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js?m=1641923528",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912347,
+          "endTime": 1778289912381,
+          "duration": 34
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/sdk.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912383,
+          "endTime": 1778289912411,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://stats.wp.com/e-202619.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912411,
+          "endTime": 1778289912444,
+          "duration": 33
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1774230728",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912445,
+          "endTime": 1778289912467,
+          "duration": 22
+        }
+      },
+      {
+        "url": "https://pixel.wp.com/g.gif?v=ext&blog=116572450&post=5633&tz=-7&srv=quantumsf.org&hp=atomic&ac=2&amp=0&j=1%3A15.8&host=quantumsf.org&ref=&fcp=0&rand=0.5398493662995901",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912468,
+          "endTime": 1778289913130,
+          "duration": 662
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912468,
+          "endTime": 1778289912493,
+          "duration": 25
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/bundle/sdk.js/",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912493,
+          "endTime": 1778289912525,
+          "duration": 32
+        }
+      },
+      {
+        "url": "https://www.facebook.com/v2.3/plugins/page.php?app_id=249643311490&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df608047cc9f201a67%26domain%3Dquantumsf.org%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fquantumsf.org%252Ff387ea45f1c5d3c15%26relation%3Dparent.parent&container_width=281&height=432&hide_cover=false&hide_cta=false&href=https%3A%2F%2Fwww.facebook.com%2Fquantumsf&locale=en_US&sdk=joey&show_facepile=true&small_header=false&tabs=false&width=340",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289912526,
+          "endTime": 1778289913159,
+          "duration": 633
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/verbum-comments/verbum-comments.css?m=1777410324i&cssminify=yes",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912555,
+          "endTime": 1778289912590,
+          "duration": 35
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/wp-content/js/rlt-proxy.js?m=1720530689i",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912591,
+          "endTime": 1778289912623,
+          "duration": 32
+        }
+      },
+      {
+        "url": "https://0.gravatar.com/js/hovercards/hovercards.min.js?ver=202619d1133547e8a1f2801609f51cef12522abe7f6647d869e9fbc974fe356a37e613",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912624,
+          "endTime": 1778289912660,
+          "duration": 36
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240i",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912661,
+          "endTime": 1778289912697,
+          "duration": 36
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/wp-content/mu-plugins/likes/queuehandler.js?m=1741961244i",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912699,
+          "endTime": 1778289912730,
+          "duration": 31
+        }
+      },
+      {
+        "url": "https://s0.wp.com/wp-content/plugins/gutenberg-core/v23.1.0/build/scripts/hooks/index.min.js?m=1778170586i&ver=7496969728ca0f95732d",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912732,
+          "endTime": 1778289912765,
+          "duration": 33
+        }
+      },
+      {
+        "url": "https://s0.wp.com/wp-content/plugins/gutenberg-core/v23.1.0/build/scripts/i18n/index.min.js?m=1778170586i&ver=125448662852c5e18937",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912768,
+          "endTime": 1778289912794,
+          "duration": 26
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/verbum-comments/assets/dynamic-loader.js?m=1772518873i&minify=false&ver=8b5296f9195db92c42e4",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912795,
+          "endTime": 1778289912836,
+          "duration": 41
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/_static/??-eJxtjUEOwjAMBD9EamhVygXxlMo4ASVt4ih26PepEOTEdWZHC1s2xEldUojV5LU+fRIITjPSYna0ZeL4FRCZ00/OL5csF8CqHFHVU8tQxKnAvfrVNihUfFZjUbELcoD/z7h4iU7N0B1h9okaeJTP2O7tLV5P0zSeL/3YD+ENg3xIFg==",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912837,
+          "endTime": 1778289912866,
+          "duration": 29
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/wp-includes/js/wp-emoji-release.min.js?m=1764078722i&ver=7.0-RC2-62280",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912890,
+          "endTime": 1778289912918,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://0.gravatar.com/js/hovercards/hovercards.min.css?ver=202619d1133547e8a1f2801609f51cef12522abe7f6647d869e9fbc974fe356a37e613",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912918,
+          "endTime": 1778289912953,
+          "duration": 35
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?m=1775575011i&ver=3.15.0",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912955,
+          "endTime": 1778289913007,
+          "duration": 52
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/verbum-comments/verbum-comments.js?m=1777410324i&minify=false&ver=daa565a7d230e522cf9c",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289912956,
+          "endTime": 1778289913039,
+          "duration": 83
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?m=1775575011i&ver=3.15.0",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289913008,
+          "endTime": 1778289913063,
+          "duration": 55
+        }
+      },
+      {
+        "url": "https://jetpack.wordpress.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/verbum-comments/verbum-comments.js?m=1777410324i&minify=false&ver=daa565a7d230e522cf9c",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289913065,
+          "endTime": 1778289913089,
+          "duration": 24
+        }
+      },
+      {
+        "url": "https://public-api.wordpress.com/wp-admin/rest-proxy/?v=2.0",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289913091,
+          "endTime": 1778289913195,
+          "duration": 104
+        }
+      },
+      {
+        "url": "https://s0.wp.com/wp-content/js/rlt-proxy.js?m=20240709",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289913196,
+          "endTime": 1778289913227,
+          "duration": 31
+        }
+      },
+      {
+        "url": "https://public-api.wordpress.com/wpcom/v2/verbum/auth?_envelope=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289913229,
+          "endTime": 1778289913265,
+          "duration": 36
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y3/l/0,cross/B57LQ6dEpt0.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289925971,
+          "endTime": 1778289926025,
+          "duration": 54
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/Uu-GGVUS6aZ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289925972,
+          "endTime": 1778289926369,
+          "duration": 397
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/KI4kVMPB_xX.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289925973,
+          "endTime": 1778289926076,
+          "duration": 103
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4i7M54/yi/l/en_US-j/ZSAm2KyddJ2.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289925974,
+          "endTime": 1778289926125,
+          "duration": 151
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4issO4/y8/l/en_US-j/BqrUK47pxRc.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289925974,
+          "endTime": 1778289926205,
+          "duration": 231
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yy/r/FYabRVBZzIf.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289925975,
+          "endTime": 1778289926263,
+          "duration": 288
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/e0qnL2dG90H.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289925975,
+          "endTime": 1778289926295,
+          "duration": 320
+        }
+      },
+      {
+        "url": "https://scontent.xx.fbcdn.net/v/t39.30808-1/301931905_517434093590957_5939348572974433876_n.png?stp=cp0_dst-png_s50x50&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=9TudK746nBkQ7kNvwHkSGQm&_nc_oc=AdoCS0kpudrJnBxg-_7wUR6M7Z-aEWzqqouH3buXP7NzKNO-zXUmi_cZnEEI9tcSJEc&_nc_zt=24&_nc_ht=scontent.xx&edm=AItmks8EAAAA&_nc_gid=PaDluLTuwl9h1dQBHn-5wA&oh=00_Af4tK1FpwKntgi9eGbjz4-Z9iMQ849qwXCXEJjBt4M1D8w&oe=6A047513",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289925976,
+          "endTime": 1778289926333,
+          "duration": 357
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/UPw3RAV2r8i.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289926373,
+          "endTime": 1778289926409,
+          "duration": 36
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/c_itVLXCmal.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289926411,
+          "endTime": 1778289926457,
+          "duration": 46
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org",
+      "pixel.wp.com",
+      "fonts-api.wp.com",
+      "i0.wp.com",
+      "fonts.wp.com",
+      "jetpack.wordpress.com",
+      "www.paypalobjects.com",
+      "s0.wp.com",
+      "connect.facebook.net",
+      "stats.wp.com",
+      "www.facebook.com",
+      "0.gravatar.com",
+      "public-api.wordpress.com",
+      "static.xx.fbcdn.net",
+      "scontent.xx.fbcdn.net"
+    ],
+    "aggregates": {
+      "total_requests": 66,
+      "by_type": {
+        "document": 5,
+        "fetch": 3,
+        "stylesheet": 10,
+        "script": 35,
+        "image": 8,
+        "font": 4,
+        "xhr": 1
+      },
+      "failed": 0,
+      "avg_response_time": 132.5151515151515
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 278,
+    "max_depth": 15,
+    "script_counts": {
+      "inline": 10,
+      "external": 16,
+      "async": 2,
+      "defer": 4,
+      "blocking": 10
+    },
+    "blocking_resources": [
+      "https://connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3",
+      "https://quantumsf.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://quantumsf.org/_static/??wp-includes/js/jquery/jquery-migrate.min.js,wp-content/themes/radiate/js/custom.js?m=1686289764",
+      "https://quantumsf.org/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?m=1719276502",
+      "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/hooks/index.min.js?ver=7496969728ca0f95732d",
+      "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/i18n/index.min.js?ver=125448662852c5e18937",
+      "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1744852765",
+      "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+      "https://quantumsf.org/_static/??wp-content/themes/radiate/js/navigation.js,wp-content/themes/radiate/js/skip-link-focus-fix.js?m=1491408683",
+      "https://quantumsf.org/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js?m=1641923528",
+      "https://quantumsf.org/_static/??wp-content/mu-plugins/wpcomsh/vendor/automattic/text-media-widget-styles/css/widget-text.css,wp-content/plugins/contact-form-7/includes/css/styles.css?m=1778266336",
+      "https://quantumsf.org/wp-content/plugins/simple-embed-code/css/video-container.min.css?m=1773883529",
+      "https://quantumsf.org/wp-includes/css/dashicons.min.css?ver=6.9.4",
+      "https://quantumsf.org/_static/??wp-content/plugins/gutenberg/build/styles/components/style.min.css,wp-content/plugins/coblocks/includes/Dependencies/GoDaddy/Styles/build/latest.css?m=1778166270",
+      "https://fonts-api.wp.com/css?family=Roboto%3A400%2C700%7CMerriweather%3A400%2C300&subset=latin%2Clatin-ext",
+      "https://quantumsf.org/_static/??wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css,wp-content/themes/radiate/style.css?m=1771843756",
+      "https://quantumsf.org/wp-content/themes/radiate/inc/style-wpcom.css?m=1461872125"
+    ]
+  },
+  "content": {
+    "visible_text": "Screen-Shot-2021-01-25-at-11.52.06-AM-1 Leave a Reply Cancel reply Reviews Facebook Community Dojo Quantum Martial Arts is a registered 501(c)(3) nonprofit in the State of California, and we thrive on the generosity of people like you. All donations are tax-deductible. Quantum’s tax ID number is 26-1534597. No donation is too small, or too large. Whether it’s $20 or $20,000, every cent will be hugely appreciated and put to good use. Support Our Kids Donate now to support our youth scholarship program which allows families in need to train at reduced cost. We believe investment in our community involves investing in our youth. Our Sister Schools Our Seattle Dojo has served thousands of students since opening on Capitol Hill in 1995, and currently offers youth and adult classes in the Central District. Our Portland Dojo was established in 2020, and currently offers youth and adult classes in Southeast Portland. A WordPress.com Website .",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Screen-Shot-2021-01-25-at-11.52.06-AM-1"
+      },
+      {
+        "level": "h3",
+        "text": "Leave a ReplyCancel reply"
+      },
+      {
+        "level": "h3",
+        "text": "Reviews"
+      },
+      {
+        "level": "h3",
+        "text": "Facebook"
+      },
+      {
+        "level": "h3",
+        "text": "Community Dojo"
+      },
+      {
+        "level": "h3",
+        "text": "Support Our Kids"
+      },
+      {
+        "level": "h3",
+        "text": "Our Sister Schools"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Search",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Class Schedule",
+        "type": "link",
+        "href": "https://quantumsf.org/adult-class-schedule/"
+      },
+      {
+        "text": "Contact Us",
+        "type": "link",
+        "href": "https://quantumsf.org/contact-us/"
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://quantumsf.org/schedule/"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "kids",
+      "secondary": [
+        "programs",
+        "testimonials",
+        "pricing"
+      ]
+    },
+    "hierarchy_summary": "h1: Screen-Shot-2021-01-25-at-11.52.06-AM-1\n    h3: Leave a ReplyCancel reply\n    h3: Reviews\n    h3: Facebook\n    h3: Community Dojo\n    h3: Support Our Kids\n    h3: Our Sister Schools"
+  },
+  "images": [
+    {
+      "src": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/02/quantum_rework_logo_500x500_trans.png?fit=60%2C60&ssl=1",
+      "page_url": "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1/",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2021/01/Screen-Shot-2021-01-25-at-11.52.06-AM-1.png?fit=300%2C204&ssl=1",
+      "page_url": "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1/",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/09/yelp_button.png?resize=150%2C47&ssl=1",
+      "page_url": "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1/",
+      "alt": "yelp_button",
+      "surrounding_text": "yelp_button",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_cc_147x47.png",
+      "page_url": "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1/",
+      "alt": "Donate with Paypal",
+      "surrounding_text": "Donate with Paypal",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://pixel.wp.com/g.gif?v=ext&blog=116572450&post=5633&tz=-7&srv=quantumsf.org&hp=atomic&ac=2&amp=0&j=1%3A15.8&host=quantumsf.org&ref=&fcp=0&rand=0.5398493662995901",
+      "page_url": "https://quantumsf.org/kids-martial-arts/screen-shot-2021-01-25-at-11-52-06-am-1/",
+      "alt": "",
+      "surrounding_text": "/* <![CDATA[ */\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\n//# sourceURL=wp-i18n-js-after\n/* ]]> */ /* <![CDATA[ */\nvar jpfbembed = {\"appid\":\"249643311490\",\"locale\":\"en_US\"};\n//# sourceURL=jetpack-facebook-embed-js-extra\n/* ]]> */",
+      "inferred_purpose": "logo"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Meta Pixel"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

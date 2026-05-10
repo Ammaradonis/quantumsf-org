@@ -1,0 +1,78 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fquantumsf.org%2Fkids-martial-arts%2Fquarks%2F",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:26:44.703Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/xml"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fquantumsf.org%2Fkids-martial-arts%2Fquarks%2F",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778290004714,
+          "endTime": 1778290005529,
+          "duration": 815
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 1,
+      "by_type": {
+        "document": 1
+      },
+      "failed": 0,
+      "avg_response_time": 815
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 83,
+    "max_depth": 7,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "1.0 Quantum Martial Arts San Francisco https://quantumsf.org Master Evans https://quantumsf.org/author/sahbunim/ Quarks rich 600 338 <blockquote class=\"wp-embedded-content\" data-secret=\"z7BgAN3uEz\"><a href=\"https://quantumsf.org/kids-martial-arts/quarks/\">Quarks</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://quantumsf.org/kids-martial-arts/quarks/embed/#?secret=z7BgAN3uEz\" width=\"600\" height=\"338\" title=\"“Quarks” — Quantum Martial Arts San Francisco\" data-secret=\"z7BgAN3uEz\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n//# sourceURL=https://quantumsf.org/wp-includes/js/wp-embed.min.js\n/* ]]> */\n</script> https://quantumsf.org/wp-content/uploads/2021/01/DM36976-600x240.jpg 600 240 This XML file does not appear to have any style information associated with it. The document tree is shown below. <oembed > <version > 1.0 </version > <provider_name > Quantum Martial Arts San Francisco </provider_name > <provider_url > https://quantumsf.org </provider_url > <author_name > Master Evans </author_name > <author_url > https://quantumsf.org/author/sahbunim/ </author_url > <title > Quarks </title > <type > rich </type > <width > 600 </width > <height > 338 </height > <html > <blockquote class=\"wp-embedded-content\" data-secret=\"z7BgAN3uEz\"><a href=\"https://quantumsf.org/kids-martial-arts/quarks/\">Quarks</a></blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https://quantumsf.org/kids-martial-arts/quarks/embed/#?secret=z7BgAN3uEz\" width=\"600\" height=\"338\" title=\"“Quarks” — Quantum Martial Arts San Francisco\" data-secret=\"z7BgAN3uEz\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"></iframe><script type=\"text/javascript\">\n/* <![CDATA[ */\n/*! This file is auto-generated */\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n//# sourceURL=https://quantumsf.org/wp-includes/js/wp-embed.min.js\n/* ]]> */\n</script> </html > <thumbnail_url > https://quantumsf.org/wp-content/uploads/2021/01/DM36976-600x240.jpg </thumbnail_url > <thumbnail_width > 600 </thumbnail_width > <thumbnail_height > 240 </thumbnail_height > ... </oembed >",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "kids",
+        "contact",
+        "instructors"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

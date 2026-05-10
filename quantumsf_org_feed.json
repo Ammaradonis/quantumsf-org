@@ -1,0 +1,104 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/feed/",
+    "original_url": "https://quantumsf.org/feed",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:19:26.558Z",
+    "redirect_chain": [
+      "https://quantumsf.org/feed",
+      "https://quantumsf.org/feed/"
+    ],
+    "status_code": 200,
+    "content_type": "text/plain"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/feed",
+        "method": "GET",
+        "status": 301,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289566585,
+          "endTime": 1778289567305,
+          "duration": 720
+        }
+      },
+      {
+        "url": "https://quantumsf.org/feed/",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289567306,
+          "endTime": 1778289568148,
+          "duration": 842
+        }
+      },
+      {
+        "url": "https://pixel.wp.com/boom.gif?bilmur=1&batcache_hit=0&provider=wordpress.com&service=atomic&site_tz=America%2FLos_Angeles&custom_props=%7B%22woo_active%22%3A%220%22%2C%22logged_in%22%3A%220%22%2C%22wptheme%22%3A%22radiate%22%2C%22wptheme_is_block%22%3A%220%22%7D&rtt=0&downlink=9400&site_host=quantumsf.org&site_path=%2Fkids-martial-arts%2F&full_path=%2Fkids-martial-arts%2F&version=4.4.0&edge_dc=vie&edge_status=STALE&edge_dur=2&nt=2--____a9_a9_a9_a9_a9_a8_ar_bx_e4_co_qs_r4_r8_5r1_5r1_5rb--0_0_0_bx--h3&reporter=fetchLater&fcp=940&fcp_raw=940&fp_raw=940&cls=0.123&lcp=996&lcp_prio=high&lcp_raw=996&lcp_sel=div.featured-image%3Eimg.attachment-radiate-featured-image.size-radiate-featured-image.wp-post-image&lcp_type=img&lcp_res=https%3A%2F%2Fi0.wp.com%2Fquantumsf.org%2Fwp-content%2Fuploads%2F2013%2F12%2Fdsc_0221.jpg%3Fresize%3D830%252C374%26ssl%3D1&lcp_pre=0&ttfb=429&nav_type=navigate",
+        "method": "GET",
+        "status": null,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": null
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org",
+      "pixel.wp.com"
+    ],
+    "aggregates": {
+      "total_requests": 3,
+      "by_type": {
+        "document": 2,
+        "fetch": 1
+      },
+      "failed": 0,
+      "avg_response_time": 520.6666666666666
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 5,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmlns:wfw=\"http://wellformedweb.org/CommentAPI/\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:atom=\"http://www.w3.org/2005/Atom\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\txmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\"\n\t>\n\n<channel>\n\t<title>Quantum Martial Arts San Francisco</title>\n\t<atom:link href=\"https://quantumsf.org/feed/\" rel=\"self\" type=\"application/rss+xml\" />\n\t<link>https://quantumsf.org</link>\n\t<description>Nonprofit Martial Arts School in San Francisco&#039;s Mission District</description>\n\t<lastBuildDate>Wed, 24 Dec 2025 18:52:05 +0000</lastBuildDate>\n\t<language>en-US</language>\n\t<sy:updatePeriod>\n\thourly\t</sy:updatePeriod>\n\t<sy:updateFrequency>\n\t1\t</sy:updateFrequency>\n\t\n\n<image>\n\t<url>https://i0.wp.com/quantumsf.org/wp-content/uploads/2020/12/cropped-logo_cmyk_512x512.png?fit=32%2C32&#038;ssl=1</url>\n\t<title>Quantum Martial Arts San Francisco</title>\n\t<link>https://quantumsf.org</link>\n\t<width>32</width>\n\t<height>32</height>\n</image> \n<site xmlns=\"com-wordpress:feed-additions:1\">116572450</site>\t<item>\n\t\t<title>Becoming the Change Part II</title>\n\t\t<link>https://quantumsf.org/2025/12/24/becoming-the-change-part-ii/</link>\n\t\t\t\t\t<comments>https://quantumsf.org/2025/12/24/becoming-the-change-part-ii/#respond</comments>\n\t\t\n\t\t<dc:creator><![CDATA[quantumsf]]></dc:creator>\n\t\t<pubDate>Wed, 24 Dec 2025 18:51:11 +0000</pubDate>\n\t\t\t\t<category><![CDATA[Master Evans' Corner]]></category>\n\t\t<category><![CDATA[martial arts]]></category>\n\t\t<category><![CDATA[quantum]]></category>\n\t\t<category><![CDATA[san francisco]]></category>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=8337</guid>\n\n\t\t\t\t\t<description><![CDATA[It took me years to comprehend the impact my firearms training had affected me. When I was in my 20’s, I never gave it a second thought. The things you grow up with, whether they are “normal” or not are normal to you if they are simply a part of your life. Another example of &#8230; <a href=\"https://quantumsf.org/2025/12/24/becoming-the-change-part-ii/\" class=\"more-link\"><span class=\"more-link-text\">Read more <span class=\"screen-reader-text\">Becoming the Change Part II</span></span></a>]]></description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://quantumsf.org/2025/12/24/becoming-the-change-part-ii/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<post-id xmlns=\"com-wordpress:feed-additions:1\">8337</post-id>\t</item>\n\t\t<item>\n\t\t<title>Becoming the Change</title>\n\t\t<link>https://quantumsf.org/2025/12/04/becoming-the-change/</link>\n\t\t\t\t\t<comments>https://quantumsf.org/2025/12/04/becoming-the-change/#respond</comments>\n\t\t\n\t\t<dc:creator><![CDATA[quantumsf]]></dc:creator>\n\t\t<pubDate>Thu, 04 Dec 2025 22:00:12 +0000</pubDate>\n\t\t\t\t<category><![CDATA[Master Evans' Corner]]></category>\n\t\t<category><![CDATA[martial arts]]></category>\n\t\t<category><![CDATA[quantum]]></category>\n\t\t<category><![CDATA[san francisco]]></category>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=8316</guid>\n\n\t\t\t\t\t<description><![CDATA[I grew up during the US-Vietnam conflict. Every night on the CBS evening news with Walter Cronkite, there were detailed reports from the battlefields halfway across the world. These newscasts would cover troop movements, human interest stories about soldiers and locals, and updates on the volatile political climate. But the most impactful of these reports &#8230; <a href=\"https://quantumsf.org/2025/12/04/becoming-the-change/\" class=\"more-link\"><span class=\"more-link-text\">Read more <span class=\"screen-reader-text\">Becoming the Change</span></span></a>]]></description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://quantumsf.org/2025/12/04/becoming-the-change/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<post-id xmlns=\"com-wordpress:feed-additions:1\">8316</post-id>\t</item>\n\t\t<item>\n\t\t<title>30 Years of Service</title>\n\t\t<link>https://quantumsf.org/2025/08/19/30-years-of-service/</link>\n\t\t\t\t\t<comments>https://quantumsf.org/2025/08/19/30-years-of-service/#comments</comments>\n\t\t\n\t\t<dc:creator><![CDATA[Master Evans]]></dc:creator>\n\t\t<pubDate>Tue, 19 Aug 2025 19:58:16 +0000</pubDate>\n\t\t\t\t<category><![CDATA[Master Evans' Corner]]></category>\n\t\t<category><![CDATA[Uncategorized]]></category>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=8195</guid>\n\n\t\t\t\t\t<description><![CDATA[I remember when I joined Shin’s Tae Kwon Do back in 1984. On the patch was the symbol for “art”, a colorful yin/yang representation and the number 1972 &#8211; the year that Master Shin opened his first martial arts academy. I remember thinking at the time that 1972 was a long time ago, and I &#8230; <a href=\"https://quantumsf.org/2025/08/19/30-years-of-service/\" class=\"more-link\"><span class=\"more-link-text\">Read more <span class=\"screen-reader-text\">30 Years of Service</span></span></a>]]></description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://quantumsf.org/2025/08/19/30-years-of-service/feed/</wfw:commentRss>\n\t\t\t<slash:comments>1</slash:comments>\n\t\t\n\t\t\n\t\t<post-id xmlns=\"com-wordpress:feed-additions:1\">8195</post-id>\t</item>\n\t\t<item>\n\t\t<title>Sinking Roots</title>\n\t\t<link>https://quantumsf.org/2024/12/30/sinking-roots/</link>\n\t\t\t\t\t<comments>https://quantumsf.org/2024/12/30/sinking-roots/#comments</comments>\n\t\t\n\t\t<dc:creator><![CDATA[quantumsf]]></dc:creator>\n\t\t<pubDate>Mon, 30 Dec 2024 16:00:00 +0000</pubDate>\n\t\t\t\t<category><![CDATA[Uncategorized]]></category>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=7959</guid>\n\n\t\t\t\t\t<description><![CDATA[The idea that we should sink roots to weather the storm is not a concept limited to trying times. Indeed, it is the very idea that has allowed humans to be the most successful animal on the planet. Establishing deep connections to others allows us to specialize our tasks in service to the tribe. This &#8230; <a href=\"https://quantumsf.org/2024/12/30/sinking-roots/\" class=\"more-link\"><span class=\"more-link-text\">Read more <span class=\"screen-reader-text\">Sinking Roots</span></span></a>]]></description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://quantumsf.org/2024/12/30/sinking-roots/feed/</wfw:commentRss>\n\t\t\t<slash:comments>2</slash:comments>\n\t\t\n\t\t\n\t\t<post-id xmlns=\"com-wordpress:feed-additions:1\">7959</post-id>\t</item>\n\t\t<item>\n\t\t<title>Embrace the Change</title>\n\t\t<link>https://quantumsf.org/2024/12/11/embrace-the-change/</link>\n\t\t\t\t\t<comments>https://quantumsf.org/2024/12/11/embrace-the-change/#comments</comments>\n\t\t\n\t\t<dc:creator><![CDATA[Master Evans]]></dc:creator>\n\t\t<pubDate>Wed, 11 Dec 2024 21:48:29 +0000</pubDate>\n\t\t\t\t<category><![CDATA[Uncategorized]]></category>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=7913</guid>\n\n\t\t\t\t\t<description><![CDATA[My grandmother was born in 1912, the year that the Titanic sank to its watery grave. Indoor plumbing was for rich people, and telephones were for business users and upscale families. Her parents were immigrants, refugees from the Italian diaspora that befell many of the small villages as subsistence farming died. When my grandmother entered &#8230; <a href=\"https://quantumsf.org/2024/12/11/embrace-the-change/\" class=\"more-link\"><span class=\"more-link-text\">Read more <span class=\"screen-reader-text\">Embrace the Change</span></span></a>]]></description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://quantumsf.org/2024/12/11/embrace-the-change/feed/</wfw:commentRss>\n\t\t\t<slash:comments>1</slash:comments>\n\t\t\n\t\t\n\t\t<post-id xmlns=\"com-wordpress:feed-additions:1\">7913</post-id>\t</item>\n\t\t<item>\n\t\t<title>Burner Dojo in Black Rock City 2022 :: 5:00 &#038; Enigma</title>\n\t\t<link>https://quantumsf.org/2022/08/16/burner-dojo-in-black-rock-city-2022-500-enigma/</link>\n\t\t\t\t\t<comments>https://quantumsf.org/2022/08/16/burner-dojo-in-black-rock-city-2022-500-enigma/#respond</comments>\n\t\t\n\t\t<dc:creator><![CDATA[Master Evans]]></dc:creator>\n\t\t<pubDate>Tue, 16 Aug 2022 17:01:36 +0000</pubDate>\n\t\t\t\t<category><![CDATA[Quantum News & Events]]></category>\n\t\t<category><![CDATA[black rock city]]></category>\n\t\t<category><![CDATA[burning man]]></category>\n\t\t<category><![CDATA[martial arts]]></category>\n\t\t<category><![CDATA[quantum]]></category>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=7014</guid>\n\n\t\t\t\t\t<description><![CDATA[Find Quantum on the Playa at 5:00 &#038; E, Black Rock City 2022!<a href=\"https://quantumsf.org/2022/08/16/burner-dojo-in-black-rock-city-2022-500-enigma/\" class=\"more-link\"><span class=\"more-link-text\">Read more <span class=\"screen-reader-text\">Burner Dojo in Black Rock City 2022 :: 5:00 &#38; Enigma</span></span></a>]]></description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://quantumsf.org/2022/08/16/burner-dojo-in-black-rock-city-2022-500-enigma/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<post-id xmlns=\"com-wordpress:feed-additions:1\">7014</post-id>\t</item>\n\t\t<item>\n\t\t<title>Every Community Needs a Dojo</title>\n\t\t<link>https://quantumsf.org/2021/12/28/every-community-needs-a-dojo/</link>\n\t\t\t\t\t<comments>https://quantumsf.org/2021/12/28/every-community-needs-a-dojo/#respond</comments>\n\t\t\n\t\t<dc:creator><![CDATA[Master Evans]]></dc:creator>\n\t\t<pubDate>Tue, 28 Dec 2021 19:36:09 +0000</pubDate>\n\t\t\t\t<category><![CDATA[Master Evans' Corner]]></category>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=6589</guid>\n\n\t\t\t\t\t<description><![CDATA[A Dojo is a unique place in today’s world. It’s almost as if as you bow and cross the threshold, you enter a different world, where you have a chance to create yourself anew each day you show up to train. Back in 2015, after spending six months remodeling a part-time rented yoga studio into &#8230; <a href=\"https://quantumsf.org/2021/12/28/every-community-needs-a-dojo/\" class=\"more-link\"><span class=\"more-link-text\">Read more <span class=\"screen-reader-text\">Every Community Needs a Dojo</span></span></a>]]></description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://quantumsf.org/2021/12/28/every-community-needs-a-dojo/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<post-id xmlns=\"com-wordpress:feed-additions:1\">6589</post-id>\t</item>\n\t\t<item>\n\t\t<title>On Resilience: Emerging from the pandemic stronger than we were before</title>\n\t\t<link>https://quantumsf.org/2021/06/12/on-resilience/</link>\n\t\t\t\t\t<comments>https://quantumsf.org/2021/06/12/on-resilience/#respond</comments>\n\t\t\n\t\t<dc:creator><![CDATA[Master Evans]]></dc:creator>\n\t\t<pubDate>Sat, 12 Jun 2021 16:24:31 +0000</pubDate>\n\t\t\t\t<category><![CDATA[Master Evans' Corner]]></category>\n\t\t<category><![CDATA[martial arts]]></category>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=6333</guid>\n\n\t\t\t\t\t<description><![CDATA[We are all shaped by our experiences. They leave indelible marks, whether we’re encountering adversity or joy, through physical experience or emotional. When I think as a martial artist about this effect, I see my physical responses to my environment as analogous to my psychological reactions to outside stimuli. I still have a crease in &#8230; <a href=\"https://quantumsf.org/2021/06/12/on-resilience/\" class=\"more-link\"><span class=\"more-link-text\">Read more <span class=\"screen-reader-text\">On Resilience: Emerging from the pandemic stronger than we were before</span></span></a>]]></description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://quantumsf.org/2021/06/12/on-resilience/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<post-id xmlns=\"com-wordpress:feed-additions:1\">6333</post-id>\t</item>\n\t\t<item>\n\t\t<title>The Dragon and Tiger Rooms, 2015–2020</title>\n\t\t<link>https://quantumsf.org/2020/12/29/retrospective-part-4/</link>\n\t\t\t\t\t<comments>https://quantumsf.org/2020/12/29/retrospective-part-4/#respond</comments>\n\t\t\n\t\t<dc:creator><![CDATA[quantumsf]]></dc:creator>\n\t\t<pubDate>Tue, 29 Dec 2020 18:43:35 +0000</pubDate>\n\t\t\t\t<category><![CDATA[Uncategorized]]></category>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=5091</guid>\n\n\t\t\t\t\t<description><![CDATA[A Quantum Retrospective, Part Four.To read Part One,&#160;The Original Dojo, 1995–2000, click here.To read Part Two,&#160;The Aurora Dojo: North Seattle, 2000–2007, click here.To read Part Three, The Denny Dojo and Quantum SF, 2007-2015, click here. As Quantum Martial Arts celebrates our Silver Anniversary this year, we’re taking a look back at 25 years on the &#8230; <a href=\"https://quantumsf.org/2020/12/29/retrospective-part-4/\" class=\"more-link\"><span class=\"more-link-text\">Read more <span class=\"screen-reader-text\">The Dragon and Tiger Rooms, 2015–2020</span></span></a>]]></description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://quantumsf.org/2020/12/29/retrospective-part-4/feed/</wfw:commentRss>\n\t\t\t<slash:comments>0</slash:comments>\n\t\t\n\t\t\n\t\t<post-id xmlns=\"com-wordpress:feed-additions:1\">5091</post-id>\t</item>\n\t\t<item>\n\t\t<title>The Denny Dojo and Quantum SF, 2007-2015</title>\n\t\t<link>https://quantumsf.org/2020/12/16/the-denny-dojo-and-quantum-sf-2007-2015/</link>\n\t\t\t\t\t<comments>https://quantumsf.org/2020/12/16/the-denny-dojo-and-quantum-sf-2007-2015/#comments</comments>\n\t\t\n\t\t<dc:creator><![CDATA[quantumsf]]></dc:creator>\n\t\t<pubDate>Wed, 16 Dec 2020 19:06:01 +0000</pubDate>\n\t\t\t\t<category><![CDATA[Uncategorized]]></category>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=4918</guid>\n\n\t\t\t\t\t<description><![CDATA[A Quantum Retrospective, Part Three.To read Part One, The Original Dojo, 1995–2000, click here .To read Part Two, The Aurora Dojo: North Seattle, 2000–2007, click here. As Quantum Martial Arts celebrates our Silver Anniversary this year, we’re taking a look back at 25 years on the mat. Seattle After Master Evans moved to San Francisco &#8230; <a href=\"https://quantumsf.org/2020/12/16/the-denny-dojo-and-quantum-sf-2007-2015/\" class=\"more-link\"><span class=\"more-link-text\">Read more <span class=\"screen-reader-text\">The Denny Dojo and Quantum SF, 2007-2015</span></span></a>]]></description>\n\t\t\n\t\t\t\t\t<wfw:commentRss>https://quantumsf.org/2020/12/16/the-denny-dojo-and-quantum-sf-2007-2015/feed/</wfw:commentRss>\n\t\t\t<slash:comments>2</slash:comments>\n\t\t\n\t\t\n\t\t<post-id xmlns=\"com-wordpress:feed-additions:1\">4918</post-id>\t</item>\n\t</channel>\n</rss>",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "instructors",
+        "blog",
+        "about"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

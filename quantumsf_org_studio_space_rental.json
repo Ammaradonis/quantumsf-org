@@ -1,0 +1,1144 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/studio-space-rental/",
+    "original_url": "https://quantumsf.org/studio-space-rental",
+    "title": "Studio Space – Quantum Martial Arts San Francisco",
+    "meta_description": "Clear-span, natural light-filled movement arts studio available for rental at hourly, weekly, or monthly rates. Great for workshops, seminars, weekly classes, or arts performances.",
+    "canonical": "https://quantumsf.org/studio-space-rental/",
+    "crawl_timestamp": "2026-05-09T01:15:42.808Z",
+    "redirect_chain": [
+      "https://quantumsf.org/studio-space-rental",
+      "https://quantumsf.org/studio-space-rental/"
+    ],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery",
+      "WordPress"
+    ],
+    "versions": {
+      "jQuery": "3.7.1",
+      "WordPress": "Site Kit by Google 1.32.0"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/studio-space-rental",
+        "method": "GET",
+        "status": 301,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289342826,
+          "endTime": 1778289343387,
+          "duration": 561
+        }
+      },
+      {
+        "url": "https://quantumsf.org/studio-space-rental/",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289343387,
+          "endTime": 1778289344842,
+          "duration": 1455
+        }
+      },
+      {
+        "url": "https://pixel.wp.com/boom.gif?bilmur=1&batcache_hit=0&provider=wordpress.com&service=atomic&site_tz=America%2FLos_Angeles&custom_props=%7B%22woo_active%22%3A%220%22%2C%22logged_in%22%3A%220%22%2C%22wptheme%22%3A%22radiate%22%2C%22wptheme_is_block%22%3A%220%22%7D&rtt=0&downlink=9400&site_host=quantumsf.org&site_path=%2Fcommunity-workshops%2Frolling-falling-for-cyclists%2F&full_path=%2Fcommunity-workshops%2Frolling-falling-for-cyclists%2F&version=4.4.0&edge_dc=vie&edge_status=MISS&edge_dur=1283&nt=2--1qc_1qc_0_kd_kd_kd_kd_kd_kd_kd_kt_1q0_1rb_1qj_1td_1yc_1yd_28v_28v_291--0_1_0_1q0--h3&reporter=fetchLater&fcp=2544&fcp_raw=2544&fp_raw=2544&cls=0.123&lcp=2876&lcp_prio=high&lcp_raw=2876&lcp_sel=div.featured-image%3Eimg.attachment-radiate-featured-image.size-radiate-featured-image.wp-post-image&lcp_type=img&lcp_res=https%3A%2F%2Fi0.wp.com%2Fquantumsf.org%2Fwp-content%2Fuploads%2F2021%2F01%2FIMG_20180407_132225-1.jpg%3Fresize%3D830%252C374%26ssl%3D1&lcp_pre=0&ttfb=2233&nav_type=navigate",
+        "method": "GET",
+        "status": null,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": null
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-content/mu-plugins/wpcomsh/vendor/automattic/text-media-widget-styles/css/widget-text.css,wp-content/plugins/contact-form-7/includes/css/styles.css?m=1778266336",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289344877,
+          "endTime": 1778289344882,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/simple-embed-code/css/video-container.min.css?m=1773883529",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289344883,
+          "endTime": 1778289344889,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/css/dashicons.min.css?ver=6.9.4",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289344890,
+          "endTime": 1778289344898,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-content/plugins/gutenberg/build/styles/components/style.min.css,wp-content/plugins/coblocks/includes/Dependencies/GoDaddy/Styles/build/latest.css?m=1778166270",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289344898,
+          "endTime": 1778289344920,
+          "duration": 22
+        }
+      },
+      {
+        "url": "https://fonts-api.wp.com/css?family=Roboto%3A400%2C700%7CMerriweather%3A400%2C300&subset=latin%2Clatin-ext",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289344921,
+          "endTime": 1778289344951,
+          "duration": 30
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css,wp-content/themes/radiate/style.css?m=1771843756",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289344952,
+          "endTime": 1778289344960,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/themes/radiate/inc/style-wpcom.css?m=1461872125",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289344960,
+          "endTime": 1778289344963,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289344964,
+          "endTime": 1778289344971,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-includes/js/jquery/jquery-migrate.min.js,wp-content/themes/radiate/js/custom.js?m=1686289764",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289344972,
+          "endTime": 1778289344975,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/02/quantum_rework_logo_500x500_trans.png?fit=60%2C60&ssl=1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289344975,
+          "endTime": 1778289344981,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrgCcaGl3w.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289345048,
+          "endTime": 1778289345076,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icaGl3w.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289345076,
+          "endTime": 1778289345088,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289345089,
+          "endTime": 1778289345139,
+          "duration": 50
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmaiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289345140,
+          "endTime": 1778289345578,
+          "duration": 438
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/uploads/2016/12/shutterstock_329138189_1000x1000.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289345583,
+          "endTime": 1778289345753,
+          "duration": 170
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3154.3332310202964!2d-122.4216460492745!3d37.758783979662915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7e3c13c16227:0xb8ab1823d2530371!2sQuantum%20Martial%20Arts!5e0!3m2!1sen!2sus!4v1473709668709",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289345765,
+          "endTime": 1778289346090,
+          "duration": 325
+        }
+      },
+      {
+        "url": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/09/yelp_button.png?resize=150%2C47&ssl=1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289345766,
+          "endTime": 1778289345936,
+          "duration": 170
+        }
+      },
+      {
+        "url": "https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_cc_147x47.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289345937,
+          "endTime": 1778289345965,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/09/dsc7283-1.jpg?resize=830%2C374&ssl=1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289345980,
+          "endTime": 1778289346054,
+          "duration": 74
+        }
+      },
+      {
+        "url": "https://s0.wp.com/wp-content/js/bilmur.min.js?m=202619",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289345980,
+          "endTime": 1778289345985,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?m=1719276502",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289345985,
+          "endTime": 1778289345996,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/hooks/index.min.js?ver=7496969728ca0f95732d",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289345996,
+          "endTime": 1778289346001,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/i18n/index.min.js?ver=125448662852c5e18937",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346001,
+          "endTime": 1778289346005,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1744852765",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346005,
+          "endTime": 1778289346011,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346011,
+          "endTime": 1778289346014,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??-eJx9zUkOwjAMQNELkVotg2CBOApyEqc4gxPhhHJ8xJYF+//0t2ZclU7SoT+okMITPWMniAqCL16xc5Up6m77l2riZjJLMqG6oSbw+8e0PFYWhUi9oUtwZ3FgB2cPAR3ZWpOhYslPhb+/W7nOp8N8WfbH5fwB3Dk9XA==",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346014,
+          "endTime": 1778289346020,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/sdk.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346020,
+          "endTime": 1778289346025,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://stats.wp.com/e-202619.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346055,
+          "endTime": 1778289346060,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://pixel.wp.com/g.gif?v=ext&blog=116572450&post=1498&tz=-7&srv=quantumsf.org&hp=atomic&ac=2&amp=0&j=1%3A15.8&host=quantumsf.org&ref=&fcp=0&rand=0.8984294525246128",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346061,
+          "endTime": 1778289346078,
+          "duration": 17
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346061,
+          "endTime": 1778289346065,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/bundle/sdk.js/",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346065,
+          "endTime": 1778289346072,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://www.facebook.com/v2.3/plugins/page.php?app_id=249643311490&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfcd21533b23d2dd0d%26domain%3Dquantumsf.org%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fquantumsf.org%252Ffd309ce9c49a41f08%26relation%3Dparent.parent&container_width=281&height=432&hide_cover=false&hide_cta=false&href=https%3A%2F%2Fwww.facebook.com%2Fquantumsf&locale=en_US&sdk=joey&show_facepile=true&small_header=false&tabs=false&width=340",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289346073,
+          "endTime": 1778289346085,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/maps-api-v3/embed/js/64/12d/init_embed.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346090,
+          "endTime": 1778289349285,
+          "duration": 3195
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en_US&callback=onApiLoad",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346091,
+          "endTime": 1778289349047,
+          "duration": 2956
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y3/l/0,cross/B57LQ6dEpt0.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346429,
+          "endTime": 1778289346438,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/Uu-GGVUS6aZ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346445,
+          "endTime": 1778289346449,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/KI4kVMPB_xX.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346450,
+          "endTime": 1778289346456,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4i7M54/yi/l/en_US-j/ZSAm2KyddJ2.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346456,
+          "endTime": 1778289346460,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4issO4/y8/l/en_US-j/BqrUK47pxRc.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346461,
+          "endTime": 1778289346467,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yy/r/FYabRVBZzIf.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346468,
+          "endTime": 1778289346471,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/e0qnL2dG90H.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346472,
+          "endTime": 1778289346475,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://scontent.xx.fbcdn.net/v/t39.30808-1/301931905_517434093590957_5939348572974433876_n.png?stp=cp0_dst-png_s50x50&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=9TudK746nBkQ7kNvwHkSGQm&_nc_oc=AdoCS0kpudrJnBxg-_7wUR6M7Z-aEWzqqouH3buXP7NzKNO-zXUmi_cZnEEI9tcSJEc&_nc_zt=24&_nc_ht=scontent.xx&edm=AItmks8EAAAA&_nc_gid=6Qz2Ih5Y9YG381vJXermfA&oh=00_Af6yiYosFplGN49x5gVdGpqco_-pMBVPtzM8OMxX23sl5A&oe=6A047513",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346475,
+          "endTime": 1778289346918,
+          "duration": 443
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/UPw3RAV2r8i.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346931,
+          "endTime": 1778289346934,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/c_itVLXCmal.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289346941,
+          "endTime": 1778289346947,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/geometry.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289349051,
+          "endTime": 1778289349408,
+          "duration": 357
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/search.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289349054,
+          "endTime": 1778289349302,
+          "duration": 248
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/main.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289349055,
+          "endTime": 1778289349466,
+          "duration": 411
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289349552,
+          "endTime": 1778289349708,
+          "duration": 156
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/common.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289349674,
+          "endTime": 1778289349784,
+          "duration": 110
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/util.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289349676,
+          "endTime": 1778289349920,
+          "duration": 244
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/map.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289349678,
+          "endTime": 1778289349894,
+          "duration": 216
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/places.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289349680,
+          "endTime": 1778289349930,
+          "duration": 250
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i2683148&2i6485474&2e1&3u16&4m2&1u600&2u450&5m6&1e0&5sen-US&6sus&10b1&12b1&14i47083502&8e1&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=29976",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289349680,
+          "endTime": 1778289350080,
+          "duration": 400
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/onion.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289349704,
+          "endTime": 1778289349906,
+          "duration": 202
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/search_impl.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289349704,
+          "endTime": 1778289349902,
+          "duration": 198
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289350076,
+          "endTime": 1778289350353,
+          "duration": 277
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289350077,
+          "endTime": 1778289350337,
+          "duration": 260
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355173,
+          "endTime": 1778289355300,
+          "duration": 127
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355174,
+          "endTime": 1778289355693,
+          "duration": 519
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/log.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355226,
+          "endTime": 1778289355521,
+          "duration": 295
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355522,
+          "endTime": 1778289355881,
+          "duration": 359
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355522,
+          "endTime": 1778289355872,
+          "duration": 350
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10482!3i25334!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9263761755018977831!2y13306756066127840113!2s%2Fg%2F11h9w8szyb!4m2!1x377587259!2x3070772852!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=38458",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355876,
+          "endTime": 1778289356105,
+          "duration": 229
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10481!3i25334!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9263761755018977831!2y13306756066127840113!2s%2Fg%2F11h9w8szyb!4m2!1x377587259!2x3070772852!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=77370",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355876,
+          "endTime": 1778289356108,
+          "duration": 232
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10481!3i25333!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9263761755018977831!2y13306756066127840113!2s%2Fg%2F11h9w8szyb!4m2!1x377587259!2x3070772852!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=80644",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355876,
+          "endTime": 1778289356119,
+          "duration": 243
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10482!3i25333!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9263761755018977831!2y13306756066127840113!2s%2Fg%2F11h9w8szyb!4m2!1x377587259!2x3070772852!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=41732",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355876,
+          "endTime": 1778289356195,
+          "duration": 319
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10483!3i25333!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9263761755018977831!2y13306756066127840113!2s%2Fg%2F11h9w8szyb!4m2!1x377587259!2x3070772852!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=2820",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355876,
+          "endTime": 1778289356163,
+          "duration": 287
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10483!3i25334!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9263761755018977831!2y13306756066127840113!2s%2Fg%2F11h9w8szyb!4m2!1x377587259!2x3070772852!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=130617",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355877,
+          "endTime": 1778289356203,
+          "duration": 326
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10483!3i25335!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9263761755018977831!2y13306756066127840113!2s%2Fg%2F11h9w8szyb!4m2!1x377587259!2x3070772852!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=127343",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355877,
+          "endTime": 1778289356219,
+          "duration": 342
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10482!3i25335!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9263761755018977831!2y13306756066127840113!2s%2Fg%2F11h9w8szyb!4m2!1x377587259!2x3070772852!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=35184",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355877,
+          "endTime": 1778289356209,
+          "duration": 332
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10481!3i25335!4i256!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9263761755018977831!2y13306756066127840113!2s%2Fg%2F11h9w8szyb!4m2!1x377587259!2x3070772852!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=74096",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355877,
+          "endTime": 1778289356229,
+          "duration": 352
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetPlaceWidgetMetadata",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355881,
+          "endTime": 1778289356112,
+          "duration": 231
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m4!1m3!1i16!2i10481!3i25333!1m4!1m3!1i16!2i10481!3i25334!1m4!1m3!1i16!2i10481!3i25335!1m4!1m3!1i16!2i10482!3i25333!1m4!1m3!1i16!2i10483!3i25333!1m4!1m3!1i16!2i10482!3i25334!1m4!1m3!1i16!2i10482!3i25335!1m4!1m3!1i16!2i10483!3i25334!1m4!1m3!1i16!2i10483!3i25335!2m3!1e0!2sm!3i778542468!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e3!12m2!5b1!6b1!27m15!299174093m14!14m13!1m8!1m2!1y9263761755018977831!2y13306756066127840113!2s%2Fg%2F11h9w8szyb!4m2!1x377587259!2x3070772852!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=81915",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289355895,
+          "endTime": 1778289356170,
+          "duration": 275
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/controls.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289356127,
+          "endTime": 1778289356250,
+          "duration": 123
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/places_impl.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289356127,
+          "endTime": 1778289356240,
+          "duration": 113
+        }
+      },
+      {
+        "url": "https://places.googleapis.com/$rpc/google.maps.places.v1.Places/GetPlace",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289356256,
+          "endTime": 1778289356732,
+          "duration": 476
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org",
+      "pixel.wp.com",
+      "fonts-api.wp.com",
+      "i0.wp.com",
+      "fonts.wp.com",
+      "www.google.com",
+      "www.paypalobjects.com",
+      "s0.wp.com",
+      "connect.facebook.net",
+      "stats.wp.com",
+      "www.facebook.com",
+      "maps.gstatic.com",
+      "maps.googleapis.com",
+      "static.xx.fbcdn.net",
+      "scontent.xx.fbcdn.net",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "places.googleapis.com"
+    ],
+    "aggregates": {
+      "total_requests": 79,
+      "by_type": {
+        "document": 4,
+        "fetch": 1,
+        "stylesheet": 10,
+        "script": 34,
+        "image": 19,
+        "font": 5,
+        "xhr": 6
+      },
+      "failed": 0,
+      "avg_response_time": 240.45569620253164
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 277,
+    "max_depth": 15,
+    "script_counts": {
+      "inline": 8,
+      "external": 13,
+      "async": 1,
+      "defer": 3,
+      "blocking": 9
+    },
+    "blocking_resources": [
+      "https://connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3",
+      "https://quantumsf.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://quantumsf.org/_static/??wp-includes/js/jquery/jquery-migrate.min.js,wp-content/themes/radiate/js/custom.js?m=1686289764",
+      "https://quantumsf.org/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?m=1719276502",
+      "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/hooks/index.min.js?ver=7496969728ca0f95732d",
+      "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/i18n/index.min.js?ver=125448662852c5e18937",
+      "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1744852765",
+      "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+      "https://quantumsf.org/_static/??-eJx9zUkOwjAMQNELkVotg2CBOApyEqc4gxPhhHJ8xJYF+//0t2ZclU7SoT+okMITPWMniAqCL16xc5Up6m77l2riZjJLMqG6oSbw+8e0PFYWhUi9oUtwZ3FgB2cPAR3ZWpOhYslPhb+/W7nOp8N8WfbH5fwB3Dk9XA==",
+      "https://quantumsf.org/_static/??wp-content/mu-plugins/wpcomsh/vendor/automattic/text-media-widget-styles/css/widget-text.css,wp-content/plugins/contact-form-7/includes/css/styles.css?m=1778266336",
+      "https://quantumsf.org/wp-content/plugins/simple-embed-code/css/video-container.min.css?m=1773883529",
+      "https://quantumsf.org/wp-includes/css/dashicons.min.css?ver=6.9.4",
+      "https://quantumsf.org/_static/??wp-content/plugins/gutenberg/build/styles/components/style.min.css,wp-content/plugins/coblocks/includes/Dependencies/GoDaddy/Styles/build/latest.css?m=1778166270",
+      "https://fonts-api.wp.com/css?family=Roboto%3A400%2C700%7CMerriweather%3A400%2C300&subset=latin%2Clatin-ext",
+      "https://quantumsf.org/_static/??wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css,wp-content/themes/radiate/style.css?m=1771843756",
+      "https://quantumsf.org/wp-content/themes/radiate/inc/style-wpcom.css?m=1461872125"
+    ]
+  },
+  "content": {
+    "visible_text": "Studio Space Our dojo is available to rent as a studio space for weekly or monthly classes, one-off workshops, or series. The large open space filled with natural light and the clear-span training floor is ideal for movement arts, dance, gymnastics, Pilates, acrobatics, contact improv, partner work, martial arts, meditation, Tai Chi, Qi Gong, private yoga sessions, team building workshops, seminars, and even ambient music, performance, and reading events. The studio is located on the third floor of 2390 Mission Street #305 , with an after-hours entrance on the 20th Street side of the building. If you find the side entrance closed when attending an evening class, please use the call box to scroll, find, and dial “Quantum,” and the instructor will buzz you in. Please contact info@quantumsf.org for more information on rates and availability. Accessibility: Our Dojo is wheelchair accessible. No steps are required to enter the building, and our third-floor Dojo is accessible by elevator as well as stairs. We keep our space pristine and have wonderful ventilation, but occasionally use incense and mildly scented cleaning products, and occasionally have a short-haired dog onsite. We ask our students to abstain from using scented products while training at the Dojo. We offer wide benches for seating, as well as access to two all-gender restrooms on our floor. Our classes are primarily English-speaking, but have a diverse community available for translation support, as well as some Spanish-written resources. If you have any further questions or requests regarding accessibility, please don’t hesitate to reach out by  calling (415) 810-1420 or emailing rachael@quantumsf.org . Reviews Facebook Community Dojo Quantum Martial Arts is a registered 501(c)(3) nonprofit in the State of California, and we thrive on the generosity of people like you. All donations are tax-deductible. Quantum’s tax ID number is 26-1534597. No donation is too small, or too large. Whether it’s $20 or $20,000, every cent will be hugely appreciated and put to good use. Support Our Kids Donate now to support our youth scholarship program which allows families in need to train at reduced cost. We believe investment in our community involves investing in our youth. Our Sister Schools Our Seattle Dojo has served thousands of students since opening on Capitol Hill in 1995, and currently offers youth and adult classes in the Central District. Our Portland Dojo was established in 2020, and currently offers youth and adult classes in Southeast Portland. A WordPress.com Website .",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Studio Space"
+      },
+      {
+        "level": "h3",
+        "text": "Reviews"
+      },
+      {
+        "level": "h3",
+        "text": "Facebook"
+      },
+      {
+        "level": "h3",
+        "text": "Community Dojo"
+      },
+      {
+        "level": "h3",
+        "text": "Support Our Kids"
+      },
+      {
+        "level": "h3",
+        "text": "Our Sister Schools"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Search",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Class Schedule",
+        "type": "link",
+        "href": "https://quantumsf.org/adult-class-schedule/"
+      },
+      {
+        "text": "Contact Us",
+        "type": "link",
+        "href": "https://quantumsf.org/contact-us/"
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://quantumsf.org/schedule/"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "kids",
+        "testimonials",
+        "events"
+      ]
+    },
+    "hierarchy_summary": "h1: Studio Space\n    h3: Reviews\n    h3: Facebook\n    h3: Community Dojo\n    h3: Support Our Kids\n    h3: Our Sister Schools"
+  },
+  "images": [
+    {
+      "src": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/02/quantum_rework_logo_500x500_trans.png?fit=60%2C60&ssl=1",
+      "page_url": "https://quantumsf.org/studio-space-rental/",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/09/dsc7283-1.jpg?resize=830%2C374&ssl=1",
+      "page_url": "https://quantumsf.org/studio-space-rental/",
+      "alt": "Studio Space",
+      "surrounding_text": "Studio Space",
+      "inferred_purpose": "hero"
+    },
+    {
+      "src": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/09/yelp_button.png?resize=150%2C47&ssl=1",
+      "page_url": "https://quantumsf.org/studio-space-rental/",
+      "alt": "yelp_button",
+      "surrounding_text": "yelp_button",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_cc_147x47.png",
+      "page_url": "https://quantumsf.org/studio-space-rental/",
+      "alt": "Donate with Paypal",
+      "surrounding_text": "Donate with Paypal",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://pixel.wp.com/g.gif?v=ext&blog=116572450&post=1498&tz=-7&srv=quantumsf.org&hp=atomic&ac=2&amp=0&j=1%3A15.8&host=quantumsf.org&ref=&fcp=0&rand=0.8984294525246128",
+      "page_url": "https://quantumsf.org/studio-space-rental/",
+      "alt": "",
+      "surrounding_text": "/* <![CDATA[ */\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\n//# sourceURL=wp-i18n-js-after\n/* ]]> */ /* <![CDATA[ */\nvar jpfbembed = {\"appid\":\"249643311490\",\"locale\":\"en_US\"};\n//# sourceURL=jetpack-facebook-embed-js-extra\n/* ]]> */",
+      "inferred_purpose": "logo"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Meta Pixel"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

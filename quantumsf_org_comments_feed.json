@@ -1,0 +1,93 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/comments/feed/",
+    "original_url": "https://quantumsf.org/comments/feed",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:19:33.949Z",
+    "redirect_chain": [
+      "https://quantumsf.org/comments/feed",
+      "https://quantumsf.org/comments/feed/"
+    ],
+    "status_code": 200,
+    "content_type": "text/plain"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/comments/feed",
+        "method": "GET",
+        "status": 301,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289573975,
+          "endTime": 1778289574655,
+          "duration": 680
+        }
+      },
+      {
+        "url": "https://quantumsf.org/comments/feed/",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289574655,
+          "endTime": 1778289575277,
+          "duration": 622
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 2,
+      "by_type": {
+        "document": 2
+      },
+      "failed": 0,
+      "avg_response_time": 651
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 5,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:atom=\"http://www.w3.org/2005/Atom\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\t\n\t>\n<channel>\n\t<title>\n\tComments for Quantum Martial Arts San Francisco\t</title>\n\t<atom:link href=\"https://quantumsf.org/comments/feed/\" rel=\"self\" type=\"application/rss+xml\" />\n\t<link>https://quantumsf.org</link>\n\t<description>Nonprofit Martial Arts School in San Francisco&#039;s Mission District</description>\n\t<lastBuildDate>Fri, 22 Aug 2025 01:23:02 +0000</lastBuildDate>\n\t<sy:updatePeriod>\n\thourly\t</sy:updatePeriod>\n\t<sy:updateFrequency>\n\t1\t</sy:updateFrequency>\n\t\n\t<item>\n\t\t<title>\n\t\tComment on 30 Years of Service by Michael Shehane\t\t</title>\n\t\t<link>https://quantumsf.org/2025/08/19/30-years-of-service/comment-page-1/#comment-2173</link>\n\n\t\t<dc:creator><![CDATA[Michael Shehane]]></dc:creator>\n\t\t<pubDate>Fri, 22 Aug 2025 01:23:02 +0000</pubDate>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=8195#comment-2173</guid>\n\n\t\t\t\t\t<description><![CDATA[Time is such a brain melt. Your sentence here, for example, &quot;This means that the Quantum forms are older now than the oldest Taekwondo forms were to me when I attended Master Shin’s dojo in the early 80’s.&quot; Melting...]]></description>\n\t\t\t<content:encoded><![CDATA[<p>Time is such a brain melt. Your sentence here, for example, &#8220;This means that the Quantum forms are older now than the oldest Taekwondo forms were to me when I attended Master Shin’s dojo in the early 80’s.&#8221; Melting&#8230;</p>\n]]></content:encoded>\n\t\t\n\t\t\t</item>\n\t\t<item>\n\t\t<title>\n\t\tComment on Sinking Roots by Irene Voisin\t\t</title>\n\t\t<link>https://quantumsf.org/2024/12/30/sinking-roots/comment-page-1/#comment-1276</link>\n\n\t\t<dc:creator><![CDATA[Irene Voisin]]></dc:creator>\n\t\t<pubDate>Sat, 04 Jan 2025 18:36:54 +0000</pubDate>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=7959#comment-1276</guid>\n\n\t\t\t\t\t<description><![CDATA[Exactly what we need to hear and focus on as we take on the next year and beyond.  Thank you Master Evans.]]></description>\n\t\t\t<content:encoded><![CDATA[<p>Exactly what we need to hear and focus on as we take on the next year and beyond.  Thank you Master Evans.</p>\n]]></content:encoded>\n\t\t\n\t\t\t</item>\n\t\t<item>\n\t\t<title>\n\t\tComment on Sinking Roots by Michael Shehane\t\t</title>\n\t\t<link>https://quantumsf.org/2024/12/30/sinking-roots/comment-page-1/#comment-1250</link>\n\n\t\t<dc:creator><![CDATA[Michael Shehane]]></dc:creator>\n\t\t<pubDate>Mon, 30 Dec 2024 20:09:58 +0000</pubDate>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=7959#comment-1250</guid>\n\n\t\t\t\t\t<description><![CDATA[Beautiful]]></description>\n\t\t\t<content:encoded><![CDATA[<p>Beautiful</p>\n]]></content:encoded>\n\t\t\n\t\t\t</item>\n\t\t<item>\n\t\t<title>\n\t\tComment on Embrace the Change by Michael S\t\t</title>\n\t\t<link>https://quantumsf.org/2024/12/11/embrace-the-change/comment-page-1/#comment-1193</link>\n\n\t\t<dc:creator><![CDATA[Michael S]]></dc:creator>\n\t\t<pubDate>Tue, 17 Dec 2024 21:51:46 +0000</pubDate>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=7913#comment-1193</guid>\n\n\t\t\t\t\t<description><![CDATA[Beautiful snapshot of the changing times]]></description>\n\t\t\t<content:encoded><![CDATA[<p>Beautiful snapshot of the changing times</p>\n]]></content:encoded>\n\t\t\n\t\t\t</item>\n\t\t<item>\n\t\t<title>\n\t\tComment on The Denny Dojo and Quantum SF, 2007-2015 by The Aurora Dojo: North Seattle, 2000–2007 &#8211; Quantum Martial Arts San Francisco\t\t</title>\n\t\t<link>https://quantumsf.org/2020/12/16/the-denny-dojo-and-quantum-sf-2007-2015/comment-page-1/#comment-239</link>\n\n\t\t<dc:creator><![CDATA[The Aurora Dojo: North Seattle, 2000–2007 &#8211; Quantum Martial Arts San Francisco]]></dc:creator>\n\t\t<pubDate>Tue, 29 Dec 2020 19:56:58 +0000</pubDate>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=4918#comment-239</guid>\n\n\t\t\t\t\t<description><![CDATA[[&#8230;] &#8592; The Quantum Leap 2020!The Denny Dojo and Quantum SF, 2007-2015 &#8594; [&#8230;]]]></description>\n\t\t\t<content:encoded><![CDATA[<p>[&#8230;] &larr; The Quantum Leap 2020!The Denny Dojo and Quantum SF, 2007-2015 &rarr; [&#8230;]</p>\n]]></content:encoded>\n\t\t\n\t\t\t</item>\n\t\t<item>\n\t\t<title>\n\t\tComment on The Denny Dojo and Quantum SF, 2007-2015 by The Dragon and Tiger Rooms, 2015–2020 &#8211; Quantum Martial Arts San Francisco\t\t</title>\n\t\t<link>https://quantumsf.org/2020/12/16/the-denny-dojo-and-quantum-sf-2007-2015/comment-page-1/#comment-238</link>\n\n\t\t<dc:creator><![CDATA[The Dragon and Tiger Rooms, 2015–2020 &#8211; Quantum Martial Arts San Francisco]]></dc:creator>\n\t\t<pubDate>Tue, 29 Dec 2020 19:55:35 +0000</pubDate>\n\t\t<guid isPermaLink=\"false\">https://quantumsf.org/?p=4918#comment-238</guid>\n\n\t\t\t\t\t<description><![CDATA[[&#8230;] A Quantum Retrospective, Part Four.To read Part One,&#160;The Original Dojo, 1995–2000, click here.To read Part Two,&#160;The Aurora Dojo: North Seattle, 2000–2007, click here.To read Part Three, The Denny Dojo and Quantum SF, 2007-2015, click here. [&#8230;]]]></description>\n\t\t\t<content:encoded><![CDATA[<p>[&#8230;] A Quantum Retrospective, Part Four.To read Part One,&nbsp;The Original Dojo, 1995–2000, click here.To read Part Two,&nbsp;The Aurora Dojo: North Seattle, 2000–2007, click here.To read Part Three, The Denny Dojo and Quantum SF, 2007-2015, click here. [&#8230;]</p>\n]]></content:encoded>\n\t\t\n\t\t\t</item>\n\t\t<item>\n\t\t<title>\n\t\tComment on Quantum turns 25: A Retrospective, Part I by The Dragon and Tiger Rooms, 2015–2020 &#8211; Quantum Martial Arts San Francisco\t\t</title>\n\t\t<link>https://quantumsf.org/2020/09/16/retrospective-part-i/comment-page-1/#comment-237</link>\n\n\t\t<dc:creator><![CDATA[The Dragon and Tiger Rooms, 2015–2020 &#8211; Quantum Martial Arts San Francisco]]></dc:creator>\n\t\t<pubDate>Tue, 29 Dec 2020 18:43:37 +0000</pubDate>\n\t\t<guid isPermaLink=\"false\">http://quantumsf.org/?p=4627#comment-237</guid>\n\n\t\t\t\t\t<description><![CDATA[[&#8230;] Quantum Retrospective, Part Four.To read Part One,&#160;The Original Dojo, 1995–2000, click here.To read Part Two,&#160;The Aurora Dojo: North Seattle, 2000–2007, click here.To read Part Three, [&#8230;]]]></description>\n\t\t\t<content:encoded><![CDATA[<p>[&#8230;] Quantum Retrospective, Part Four.To read Part One,&nbsp;The Original Dojo, 1995–2000, click here.To read Part Two,&nbsp;The Aurora Dojo: North Seattle, 2000–2007, click here.To read Part Three, [&#8230;]</p>\n]]></content:encoded>\n\t\t\n\t\t\t</item>\n\t\t<item>\n\t\t<title>\n\t\tComment on Quantum turns 25: A Retrospective, Part I by The Denny Dojo and Quantum SF, 2007-2015 &#8211; Quantum Martial Arts San Francisco\t\t</title>\n\t\t<link>https://quantumsf.org/2020/09/16/retrospective-part-i/comment-page-1/#comment-236</link>\n\n\t\t<dc:creator><![CDATA[The Denny Dojo and Quantum SF, 2007-2015 &#8211; Quantum Martial Arts San Francisco]]></dc:creator>\n\t\t<pubDate>Wed, 16 Dec 2020 19:06:03 +0000</pubDate>\n\t\t<guid isPermaLink=\"false\">http://quantumsf.org/?p=4627#comment-236</guid>\n\n\t\t\t\t\t<description><![CDATA[[&#8230;] Quantum Retrospective, Part Three.To read Part One, The Original Dojo, 1995–2000, click here .To read Part Two, The Aurora Dojo: North Seattle, 2000–2007, click [&#8230;]]]></description>\n\t\t\t<content:encoded><![CDATA[<p>[&#8230;] Quantum Retrospective, Part Three.To read Part One, The Original Dojo, 1995–2000, click here .To read Part Two, The Aurora Dojo: North Seattle, 2000–2007, click [&#8230;]</p>\n]]></content:encoded>\n\t\t\n\t\t\t</item>\n\t\t<item>\n\t\t<title>\n\t\tComment on Quantum turns 25: A Retrospective, Part I by The Aurora Dojo: North Seattle, 2000–2007 &#8211; Quantum Martial Arts San Francisco\t\t</title>\n\t\t<link>https://quantumsf.org/2020/09/16/retrospective-part-i/comment-page-1/#comment-235</link>\n\n\t\t<dc:creator><![CDATA[The Aurora Dojo: North Seattle, 2000–2007 &#8211; Quantum Martial Arts San Francisco]]></dc:creator>\n\t\t<pubDate>Tue, 24 Nov 2020 21:15:52 +0000</pubDate>\n\t\t<guid isPermaLink=\"false\">http://quantumsf.org/?p=4627#comment-235</guid>\n\n\t\t\t\t\t<description><![CDATA[[&#8230;] A Quantum Retrospective, Part Two. To read Part One, The Original Dojo, 1995–2000, click here. [&#8230;]]]></description>\n\t\t\t<content:encoded><![CDATA[<p>[&#8230;] A Quantum Retrospective, Part Two. To read Part One, The Original Dojo, 1995–2000, click here. [&#8230;]</p>\n]]></content:encoded>\n\t\t\n\t\t\t</item>\n\t\t<item>\n\t\t<title>\n\t\tComment on Rolling with the Punches by Kevin Traynor\t\t</title>\n\t\t<link>https://quantumsf.org/2020/04/03/rolling-with-the-punches/comment-page-1/#comment-228</link>\n\n\t\t<dc:creator><![CDATA[Kevin Traynor]]></dc:creator>\n\t\t<pubDate>Thu, 30 Apr 2020 01:47:46 +0000</pubDate>\n\t\t<guid isPermaLink=\"false\">http://quantumsf.org/?p=4489#comment-228</guid>\n\n\t\t\t\t\t<description><![CDATA[This is a wonderful way of looking at our lives. I like the part about free will. I’ve been thinking a lot lately about free will. It seems to me that we don’t actually have free will until we’re free. We’re free when we are fully self-aware, then we have free will. Uncertainty is all around us, but when we are certain of who we are within ourselves the uncertainty all around us is simply not potential for anything to happen, and that’s a good thing.]]></description>\n\t\t\t<content:encoded><![CDATA[<p>This is a wonderful way of looking at our lives. I like the part about free will. I’ve been thinking a lot lately about free will. It seems to me that we don’t actually have free will until we’re free. We’re free when we are fully self-aware, then we have free will. Uncertainty is all around us, but when we are certain of who we are within ourselves the uncertainty all around us is simply not potential for anything to happen, and that’s a good thing.</p>\n]]></content:encoded>\n\t\t\n\t\t\t</item>\n\t</channel>\n</rss>",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "instructors",
+        "about"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

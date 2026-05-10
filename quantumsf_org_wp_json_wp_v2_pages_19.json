@@ -1,0 +1,78 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/wp-json/wp/v2/pages/19",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:20:48.872Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "application/json"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/wp-json/wp/v2/pages/19",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289648905,
+          "endTime": 1778289649488,
+          "duration": 583
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 1,
+      "by_type": {
+        "document": 1
+      },
+      "failed": 0,
+      "avg_response_time": 583
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 7,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "{\"id\":19,\"date\":\"2013-12-20T17:55:29\",\"date_gmt\":\"2013-12-21T01:55:29\",\"guid\":{\"rendered\":\"http:\\/\\/quantumsf.wordpress.com\\/?page_id=13\"},\"modified\":\"2025-01-21T12:35:54\",\"modified_gmt\":\"2025-01-21T20:35:54\",\"slug\":\"membership\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/quantumsf.org\\/membership\\/\",\"title\":{\"rendered\":\"Membership\"},\"content\":{\"rendered\":\"<p>Not sure whether Quantum is for you?\\u00a0<a title=\\\"Contact Us\\\" href=\\\"\\/contact-us\\/\\\">Try us<\\/a> for one week FREE! There is n<span style=\\\"line-height: 1.5em;\\\">o long-term commitment or obligation, sign up when you\\u2019re ready!<\\/span><\\/p>\\n<h4>Monthly dues<\\/h4>\\n<p>Monthly dues include access to unlimited classes, and Quantum offers over 35 classes per week for all ages. Attending 2-3 classes per week is recommended for successful results.\\u00a0 Monthly dues for all ages are in addition to a sliding-scale yearly membership fee.<\\/p>\\n<p>If you are in a position to offer more than the rate marked below, every dollar will go toward providing martial arts classes that are accessible for all.<\\/p>\\n<p><span style=\\\"line-height: 1.5;\\\"><strong>Adults<\\/strong> (age 13+) monthly dues are<\\/span><span style=\\\"line-height: 1.5;\\\">\\u00a0<strong>$225<\\/strong> per month.<br \\/>\\n<\\/span>Teens age 13-17 are invited to try our Adult Program at $200 per month.<\\/p>\\n<p><span style=\\\"line-height: 1.5;\\\"><strong>Kids &amp; Teens<\\/strong> (ages 6\\u201314), monthly dues for the first student are <strong>$200<\\/strong>\\u00a0per\\u00a0month.\\u00a0<\\/span><\\/p>\\n<p><strong>Quarks<\\/strong> (ages 4\\u20135), monthly dues are <strong>$175<\\/strong>\\u00a0per month.<\\/p>\\n<p>Family discounts: Families training together will receive a<strong> discount of $15<\\/strong> off each family members\\u2019 dues.<\\/p>\\n<h4>Yearly membership<\\/h4>\\n<p>In addition to monthly dues, our annual membership levels are:<\\/p>\\n<ul>\\n<li><strong>$40<\\/strong> \\u2013 Currently enrolled college student, discounted rate<\\/li>\\n<li><strong>$60<\\/strong> \\u2013 Minimum rate for adult Quantum Student<\\/li>\\n<li><strong>$80<\\/strong> \\u2013 Quantum\\u00a0Family (covers unlimited family members training in the kids or adults programs)<\\/li>\\n<li><strong>$125<\\/strong> \\u2013 Quantum\\u00a0Benefactor<\\/li>\\n<li><strong>$250<\\/strong> \\u2013 Quantum\\u00a0Supporter<\\/li>\\n<li><strong>$500<\\/strong> \\u2013 Quantum\\u00a0Patron<\\/li>\\n<li><strong>$1000<\\/strong> \\u2013 Quantum\\u00a0Angel<\\/li>\\n<\\/ul>\\n<h4>Scholarships and\\u00a0Donations<\\/h4>\\n<p>As a not-for-profit organization, Quantum is a place where valuable training and life-skills are available to all. As such, <strong>we offer a sliding-scale tuition and a scholarship program to families and adults who qualify for assistance<\\/strong>. Sliding scale tuition is established through conversation on the honor system. We do not require proof of need via paystubs or ask for families\\u2019 yearly income.<\\/p>\\n<p><strong>You don\\u2019t have to be currently training in order to support Quantum with a yearly membership. <\\/strong>All instructors are volunteers and we survive on membership, donations, grants, and support from our community.\\u00a0Alumni, friends and family members, and patrons of the martial arts are encouraged to support our school with an honorary membership. No donation amount is too little or too large, and your gift is tax-deductible. Donations are accepted <a title=\\\"Make a donation via Paypal\\\" href=\\\"https:\\/\\/www.paypal.com\\/us\\/cgi-bin\\/webscr?cmd=_s-xclick&amp;hosted_button_id=NXLPNYFR7S9RU\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">via PayPal<\\/a>, or contact Master Evans\\u00a0to arrange your donation today!<\\/p>\\n<p>Questions on membership? Please <a title=\\\"Contact Us\\\" href=\\\"\\/contact-us\\/\\\">contact us<\\/a>.<\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Not sure whether Quantum is for you?\\u00a0Try us for one week FREE! There is no long-term commitment or obligation, sign up when you\\u2019re ready! Monthly dues Monthly dues include access to unlimited classes, and Quantum offers over 35 classes per week for all ages. Attending 2-3 classes per week is recommended for successful results.\\u00a0 Monthly &hellip; <a href=\\\"https:\\/\\/quantumsf.org\\/membership\\/\\\" class=\\\"more-link\\\"><span class=\\\"more-link-text\\\">Read more <span class=\\\"screen-reader-text\\\">Membership<\\/span><\\/span><\\/a><\\/p>\\n\",\"protected\":false},\"author\":59245587,\"featured_media\":0,\"parent\":0,\"menu_order\":4,\"comment_status\":\"closed\",\"ping_status\":\"closed\",\"template\":\"\",\"meta\":{\"_coblocks_attr\":\"\",\"_coblocks_dimensions\":\"\",\"_coblocks_responsive_height\":\"\",\"_coblocks_accordion_ie_support\":\"\",\"_crdt_document\":\"\",\"advanced_seo_description\":\"\",\"jetpack_seo_html_title\":\"\",\"jetpack_seo_noindex\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-19\",\"page\",\"type-page\",\"status-publish\",\"hentry\"],\"jetpack_likes_enabled\":true,\"jetpack_sharing_enabled\":true,\"jetpack_shortlink\":\"https:\\/\\/wp.me\\/P7T7OO-j\",\"amp_enabled\":true,\"_links\":{\"self\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/19\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\"}],\"about\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/types\\/page\"}],\"author\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/users\\/59245587\"}],\"replies\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/comments?post=19\"}],\"version-history\":[{\"count\":23,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/19\\/revisions\"}],\"predecessor-version\":[{\"id\":7998,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/19\\/revisions\\/7998\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media?parent=19\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/tags?post=19\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "pricing",
+      "secondary": [
+        "programs",
+        "contact",
+        "trial"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

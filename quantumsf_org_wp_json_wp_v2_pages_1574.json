@@ -1,0 +1,78 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/wp-json/wp/v2/pages/1574",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:22:37.269Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "application/json"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/wp-json/wp/v2/pages/1574",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289757286,
+          "endTime": 1778289757893,
+          "duration": 607
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 1,
+      "by_type": {
+        "document": 1
+      },
+      "failed": 0,
+      "avg_response_time": 607
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 7,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "{\"id\":1574,\"date\":\"2016-10-03T18:45:22\",\"date_gmt\":\"2016-10-03T18:45:22\",\"guid\":{\"rendered\":\"https:\\/\\/quantumsf.org\\/?page_id=1574\"},\"modified\":\"2025-07-27T13:18:02\",\"modified_gmt\":\"2025-07-27T20:18:02\",\"slug\":\"teen-class-schedule\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/quantumsf.org\\/teen-class-schedule\\/\",\"title\":{\"rendered\":\"Teen Class Schedule\"},\"content\":{\"rendered\":\"\\n<p class=\\\"wp-block-paragraph\\\"><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">All classes are open to all experience levels. Beginners and new students are always welcome, and your first week of classes is free! Please schedule your initial trial class &amp; orientation by&nbsp;<a href=\\\"\\/contact-us\\/\\\">filling in this quick form<\\/a>.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Monday:        5:30-6:30pm<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Tuesday:&nbsp; &nbsp; &nbsp; &nbsp;5:30-6:30pm<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Tuesday:&nbsp; &nbsp; &nbsp; &nbsp;6:30-6:45pm (Teen High Green+)<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Wednesday: 4:30-5:15pm<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Thursday:&nbsp; &nbsp; &nbsp;5:30-6:30pm<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Friday:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5:00\\u20135:30pm (Teen Blue Belt)<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Friday:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5:30\\u20136:30pm<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Saturday:\\u00a0 \\u00a0 \\u00a0 \\u00a011:00-12:00pm<\\/p>\\n\\n\\n\\n<blockquote class=\\\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\\\">\\n<p class=\\\"wp-block-paragraph\\\">Teens at age 13+ are also invited to any of the Adult level classes, appropriate to their rank.<br>Teens at rank Blue Belt+ are invited to any of the Adult level classes appropriate to their rank, regardless of their age.<br><\\/p>\\n<\\/blockquote>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">For&nbsp;our&nbsp;latest up-to-date schedule, please consult&nbsp;and subscribe to our&nbsp;Google Calendar:<\\/p>\\n\\n\\n<div class=\\\"wp-block-jetpack-google-calendar\\\"><iframe loading=\\\"lazy\\\" src=\\\"https:\\/\\/calendar.google.com\\/calendar\\/embed?src=c_jas1ueee6r407jlemr37k2f4hc%40group.calendar.google.com&#038;ctz=America%2FLos_Angeles\\\" frameborder=\\\"0\\\" style=\\\"border:0\\\" scrolling=\\\"no\\\" height=\\\"600\\\" width=\\\"100%\\\" sandbox=\\\"allow-scripts allow-same-origin allow-popups\\\"><\\/iframe><\\/div>\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>All classes are open to all experience levels. Beginners and new students are always welcome, and your first week of classes is free! Please schedule your initial trial class &amp; orientation by&nbsp;filling in this quick form. Monday: 5:30-6:30pm Tuesday:&nbsp; &nbsp; &nbsp; &nbsp;5:30-6:30pm Tuesday:&nbsp; &nbsp; &nbsp; &nbsp;6:30-6:45pm (Teen High Green+) Wednesday: 4:30-5:15pm Thursday:&nbsp; &nbsp; &nbsp;5:30-6:30pm Friday:&nbsp; &hellip; <a href=\\\"https:\\/\\/quantumsf.org\\/teen-class-schedule\\/\\\" class=\\\"more-link\\\"><span class=\\\"more-link-text\\\">Read more <span class=\\\"screen-reader-text\\\">Teen Class Schedule<\\/span><\\/span><\\/a><\\/p>\\n\",\"protected\":false},\"author\":59245587,\"featured_media\":1610,\"parent\":0,\"menu_order\":0,\"comment_status\":\"closed\",\"ping_status\":\"closed\",\"template\":\"\",\"meta\":{\"_coblocks_attr\":\"\",\"_coblocks_dimensions\":\"\",\"_coblocks_responsive_height\":\"\",\"_coblocks_accordion_ie_support\":\"\",\"_crdt_document\":\"\",\"advanced_seo_description\":\"\",\"jetpack_seo_html_title\":\"\",\"jetpack_seo_noindex\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-1574\",\"page\",\"type-page\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"jetpack_likes_enabled\":true,\"jetpack_sharing_enabled\":true,\"jetpack_shortlink\":\"https:\\/\\/wp.me\\/P7T7OO-po\",\"amp_enabled\":true,\"_links\":{\"self\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/1574\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\"}],\"about\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/types\\/page\"}],\"author\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/users\\/59245587\"}],\"replies\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/comments?post=1574\"}],\"version-history\":[{\"count\":44,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/1574\\/revisions\"}],\"predecessor-version\":[{\"id\":8166,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/1574\\/revisions\\/8166\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media\\/1610\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media?parent=1574\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/tags?post=1574\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "schedule",
+      "secondary": [
+        "programs",
+        "gallery",
+        "home"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

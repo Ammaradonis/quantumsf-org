@@ -1,0 +1,78 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/wp-json/wp/v2/pages/1571",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:22:22.087Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "application/json"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/wp-json/wp/v2/pages/1571",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289742102,
+          "endTime": 1778289742659,
+          "duration": 557
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 1,
+      "by_type": {
+        "document": 1
+      },
+      "failed": 0,
+      "avg_response_time": 557
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 7,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "{\"id\":1571,\"date\":\"2016-10-01T04:00:06\",\"date_gmt\":\"2016-10-01T04:00:06\",\"guid\":{\"rendered\":\"https:\\/\\/quantumsf.org\\/?page_id=1571\"},\"modified\":\"2022-02-11T12:19:39\",\"modified_gmt\":\"2022-02-11T20:19:39\",\"slug\":\"teens-martial-arts\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/quantumsf.org\\/teens-martial-arts\\/\",\"title\":{\"rendered\":\"Martial Arts for Teens\"},\"content\":{\"rendered\":\"\\n<p class=\\\"wp-block-paragraph\\\">Teen classes at Quantum are open to students ages 10\\u201314.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Older students from the kids program will find an opportunity to practice their martial arts in a more serious atmosphere during a dedicated class with their peers. While the kids class begins with an obstacle course and includes a generous amount of both structured and unstructured play time, the teen class gets right to work, focusing on martial arts technique instruction, partner drills, no-contact sparring, and forms practice. Teens will also have the opportunity to develop leadership skills, as they will be shown how to teach basic techniques and support younger learners, then be called upon to serve as mentors and leaders when attending the kids classes and belt tests.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">Younger students enrolled in the adult program will also find that the teen class offers training at a pace that suits their unique needs. The stretching and calisthenics that accompany the teen class are designed to be accessible to growing bodies, and the instruction is tailored to the needs of this age group. <\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><strong>Your first trial class<\\/strong><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">New students interested in Quantum teen classes should first schedule an orientation with Master Evans, and one guardian must be present during your intake interview. <a href=\\\"\\/contact-us\\\">Contact&nbsp;us<\\/a> today to set up your orientation and free one-week trial.<\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><strong>Curriculum<\\/strong><\\/p>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">View the Teen Curriculum <a href=\\\"https:\\/\\/quantumsf.org\\/teens-martial-arts\\/curriculum\\/\\\">here<\\/a>.<\\/p>\\n\\n\\n<div class=\\\"wp-block-jetpack-google-calendar\\\"><iframe loading=\\\"lazy\\\" src=\\\"https:\\/\\/calendar.google.com\\/calendar\\/embed?src=c_jas1ueee6r407jlemr37k2f4hc%40group.calendar.google.com&#038;ctz=America%2FLos_Angeles\\\" frameborder=\\\"0\\\" style=\\\"border:0\\\" scrolling=\\\"no\\\" height=\\\"600\\\" width=\\\"100%\\\" sandbox=\\\"allow-scripts allow-same-origin allow-popups\\\"><\\/iframe><\\/div>\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Teen classes at Quantum are open to students ages 10\\u201314. Older students from the kids program will find an opportunity to practice their martial arts in a more serious atmosphere during a dedicated class with their peers. While the kids class begins with an obstacle course and includes a generous amount of both structured and &hellip; <a href=\\\"https:\\/\\/quantumsf.org\\/teens-martial-arts\\/\\\" class=\\\"more-link\\\"><span class=\\\"more-link-text\\\">Read more <span class=\\\"screen-reader-text\\\">Martial Arts for Teens<\\/span><\\/span><\\/a><\\/p>\\n\",\"protected\":false},\"author\":59245587,\"featured_media\":1691,\"parent\":0,\"menu_order\":2,\"comment_status\":\"closed\",\"ping_status\":\"closed\",\"template\":\"\",\"meta\":{\"_coblocks_attr\":\"\",\"_coblocks_dimensions\":\"\",\"_coblocks_responsive_height\":\"\",\"_coblocks_accordion_ie_support\":\"\",\"_crdt_document\":\"\",\"advanced_seo_description\":\"\",\"jetpack_seo_html_title\":\"\",\"jetpack_seo_noindex\":false,\"footnotes\":\"\"},\"tags\":[268522],\"class_list\":[\"post-1571\",\"page\",\"type-page\",\"status-publish\",\"has-post-thumbnail\",\"hentry\",\"tag-slider\"],\"jetpack_likes_enabled\":true,\"jetpack_sharing_enabled\":true,\"jetpack_shortlink\":\"https:\\/\\/wp.me\\/P7T7OO-pl\",\"amp_enabled\":true,\"_links\":{\"self\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/1571\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\"}],\"about\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/types\\/page\"}],\"author\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/users\\/59245587\"}],\"replies\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/comments?post=1571\"}],\"version-history\":[{\"count\":20,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/1571\\/revisions\"}],\"predecessor-version\":[{\"id\":6705,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/1571\\/revisions\\/6705\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media\\/1691\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media?parent=1571\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/tags?post=1571\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "schedule",
+        "kids",
+        "contact"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

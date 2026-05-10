@@ -1,0 +1,134 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/contact-us?customize_autosaved=on&customize_changeset_uuid=7bb6cc7a-b6cf-4db0-a34a-09407aca1ad6&customize_messenger_channel=preview-5",
+    "title": "WordPress › Error",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:27:01.164Z",
+    "redirect_chain": [],
+    "status_code": 500,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery",
+      "WordPress"
+    ],
+    "versions": {
+      "jQuery": "3.7.1"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/contact-us?customize_autosaved=on&customize_changeset_uuid=7bb6cc7a-b6cf-4db0-a34a-09407aca1ad6&customize_messenger_channel=preview-5",
+        "method": "GET",
+        "status": 500,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778290021184,
+          "endTime": 1778290022096,
+          "duration": 912
+        }
+      },
+      {
+        "url": "https://c0.wp.com/c/6.9.4/wp-includes/js/jquery/jquery.min.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778290022109,
+          "endTime": 1778290022151,
+          "duration": 42
+        }
+      },
+      {
+        "url": "https://c0.wp.com/c/6.9.4/wp-includes/js/jquery/jquery-migrate.min.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778290022152,
+          "endTime": 1778290022198,
+          "duration": 46
+        }
+      },
+      {
+        "url": "https://c0.wp.com/c/6.9.4/wp-includes/js/underscore.min.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778290022200,
+          "endTime": 1778290022232,
+          "duration": 32
+        }
+      },
+      {
+        "url": "https://c0.wp.com/c/6.9.4/wp-includes/js/customize-base.min.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778290022233,
+          "endTime": 1778290022275,
+          "duration": 42
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org",
+      "c0.wp.com"
+    ],
+    "aggregates": {
+      "total_requests": 5,
+      "by_type": {
+        "document": 1,
+        "script": 4
+      },
+      "failed": 0,
+      "avg_response_time": 214.8
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 16,
+    "max_depth": 6,
+    "script_counts": {
+      "inline": 1,
+      "external": 4,
+      "async": 0,
+      "defer": 0,
+      "blocking": 4
+    },
+    "blocking_resources": [
+      "https://c0.wp.com/c/6.9.4/wp-includes/js/jquery/jquery.min.js",
+      "https://c0.wp.com/c/6.9.4/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://c0.wp.com/c/6.9.4/wp-includes/js/underscore.min.js",
+      "https://c0.wp.com/c/6.9.4/wp-includes/js/customize-base.min.js"
+    ]
+  },
+  "content": {
+    "visible_text": "Unauthorized. You may remove the customize_messenger_channel param to preview as frontend.",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "unknown",
+      "secondary": []
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

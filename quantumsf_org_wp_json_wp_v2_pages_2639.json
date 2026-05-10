@@ -1,0 +1,78 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/wp-json/wp/v2/pages/2639",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:24:15.378Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "application/json"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/wp-json/wp/v2/pages/2639",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289855389,
+          "endTime": 1778289856031,
+          "duration": 642
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 1,
+      "by_type": {
+        "document": 1
+      },
+      "failed": 0,
+      "avg_response_time": 642
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 7,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "{\"id\":2639,\"date\":\"2018-09-11T11:31:48\",\"date_gmt\":\"2018-09-11T18:31:48\",\"guid\":{\"rendered\":\"https:\\/\\/quantumsf.org\\/?page_id=2639\"},\"modified\":\"2022-06-03T09:21:41\",\"modified_gmt\":\"2022-06-03T16:21:41\",\"slug\":\"parent-information-pamphlet\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/quantumsf.org\\/parent-information-pamphlet\\/\",\"title\":{\"rendered\":\"Parent Information Pamphlet\"},\"content\":{\"rendered\":\"<p>There is a lot to learn about how to get the most out of your child\\u2019s training at the Quantum Dojo. Discipline and \\u2018buying-in\\u2019 to the rules and customs of a martial arts dojo is a considerable part of a student\\u2019s training.<\\/p>\\n<p>The following New Student Information PDF file contains a wealth of information for parents of enrolled students at Quantum, including tips on how to wash and wear the uniform, info about testings, Dojo rules, advice for successful attendance, and contact information of Instructors and Assistant Instructors.<\\/p>\\n<p>Printed copies are also available at the Dojo.<\\/p>\\n<p>Versi\\u00f3n en espa\\u00f1ol pr\\u00f3ximamente.<\\/p>\\n<p><a title=\\\"ParentsPacket_0120_English\\\" href=\\\"https:\\/\\/quantumsf.org\\/wp-content\\/uploads\\/2022\\/06\\/Summer2022_Quantum_Youth_Student_Info_Web.pdf\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">Click here to view or download the Quantum Youth Programs New Student Information booklet.<\\/a><\\/p>\\n<p>\\u00a0<\\/p>\\n\\n\\n<p class=\\\"wp-block-paragraph\\\"><\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>There is a lot to learn about how to get the most out of your child\\u2019s training at the Quantum Dojo. Discipline and \\u2018buying-in\\u2019 to the rules and customs of a martial arts dojo is a considerable part of a student\\u2019s training. The following New Student Information PDF file contains a wealth of information for &hellip; <a href=\\\"https:\\/\\/quantumsf.org\\/parent-information-pamphlet\\/\\\" class=\\\"more-link\\\"><span class=\\\"more-link-text\\\">Read more <span class=\\\"screen-reader-text\\\">Parent Information Pamphlet<\\/span><\\/span><\\/a><\\/p>\\n\",\"protected\":false},\"author\":59510805,\"featured_media\":0,\"parent\":0,\"menu_order\":0,\"comment_status\":\"closed\",\"ping_status\":\"closed\",\"template\":\"\",\"meta\":{\"_coblocks_attr\":\"\",\"_coblocks_dimensions\":\"\",\"_coblocks_responsive_height\":\"\",\"_coblocks_accordion_ie_support\":\"\",\"_crdt_document\":\"\",\"advanced_seo_description\":\"\",\"jetpack_seo_html_title\":\"\",\"jetpack_seo_noindex\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-2639\",\"page\",\"type-page\",\"status-publish\",\"hentry\"],\"jetpack_likes_enabled\":true,\"jetpack_sharing_enabled\":true,\"jetpack_shortlink\":\"https:\\/\\/wp.me\\/P7T7OO-Gz\",\"amp_enabled\":true,\"_links\":{\"self\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/2639\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\"}],\"about\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/types\\/page\"}],\"author\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/users\\/59510805\"}],\"replies\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/comments?post=2639\"}],\"version-history\":[{\"count\":9,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/2639\\/revisions\"}],\"predecessor-version\":[{\"id\":6919,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/2639\\/revisions\\/6919\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media?parent=2639\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/tags?post=2639\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "about",
+        "contact",
+        "gallery"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

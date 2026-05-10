@@ -1,0 +1,78 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/wp-json/wp/v2/pages/18",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:20:33.425Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "application/json"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/wp-json/wp/v2/pages/18",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289633438,
+          "endTime": 1778289634175,
+          "duration": 737
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 1,
+      "by_type": {
+        "document": 1
+      },
+      "failed": 0,
+      "avg_response_time": 737
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 7,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "{\"id\":18,\"date\":\"2013-12-20T17:41:40\",\"date_gmt\":\"2013-12-21T01:41:40\",\"guid\":{\"rendered\":\"http:\\/\\/quantumsf.wordpress.com\\/?page_id=8\"},\"modified\":\"2024-09-19T13:23:30\",\"modified_gmt\":\"2024-09-19T20:23:30\",\"slug\":\"adult-class-schedule\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/quantumsf.org\\/adult-class-schedule\\/\",\"title\":{\"rendered\":\"Adult Class Schedule\"},\"content\":{\"rendered\":\"\\n<p class=\\\"wp-block-paragraph\\\"><\\/p>\\n\\n\\n\\n<hr class=\\\"wp-block-separator has-css-opacity\\\"\\/>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">The Quantum San Francisco Dojo offers online martial arts classes for adults six days a week. New students and beginners are always welcome, and your first week of classes is free! Students pay a monthly membership fee and access to classes is unlimited. If you are interested to check out classes, please let us know you are coming by scheduling an orientation and trial class on <a href=\\\"\\/contact-us\\/\\\">this form<\\/a>.<\\/p>\\n\\n\\n\\n<hr class=\\\"wp-block-separator has-css-opacity\\\"\\/>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">For our latest up-to-date schedule consult and subscribe to our Google Calendar:<\\/p>\\n\\n\\n<div class=\\\"wp-block-jetpack-google-calendar\\\"><iframe loading=\\\"lazy\\\" src=\\\"https:\\/\\/calendar.google.com\\/calendar\\/embed?src=c_4kdusb8j3g604drgnuh8i86og8%40group.calendar.google.com&#038;ctz=America%2FLos_Angeles\\\" frameborder=\\\"0\\\" style=\\\"border:0\\\" scrolling=\\\"no\\\" height=\\\"600\\\" width=\\\"100%\\\" sandbox=\\\"allow-scripts allow-same-origin allow-popups\\\"><\\/iframe><\\/div>\\n\\n\\n<hr class=\\\"wp-block-separator has-css-opacity\\\"\\/>\\n\\n\\n\\n<p class=\\\"wp-block-paragraph\\\">You can also tune in to our <a href=\\\"https:\\/\\/www.instagram.com\\/quantum_sf\\/\\\">instagram<\\/a> for regular updates.<\\/p>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>Adult martial arts classes six days a week, open to ages 13+. <a href=\\\"https:\\/\\/quantumsf.org\\/adult-class-schedule\\/\\\" class=\\\"more-link\\\"><span class=\\\"more-link-text\\\">Read more <span class=\\\"screen-reader-text\\\">Adult Class Schedule<\\/span><\\/span><\\/a><\\/p>\\n\",\"protected\":false},\"author\":59245587,\"featured_media\":1610,\"parent\":0,\"menu_order\":3,\"comment_status\":\"closed\",\"ping_status\":\"closed\",\"template\":\"\",\"meta\":{\"_coblocks_attr\":\"\",\"_coblocks_dimensions\":\"\",\"_coblocks_responsive_height\":\"\",\"_coblocks_accordion_ie_support\":\"\",\"_crdt_document\":\"\",\"advanced_seo_description\":\"\",\"jetpack_seo_html_title\":\"\",\"jetpack_seo_noindex\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-18\",\"page\",\"type-page\",\"status-publish\",\"has-post-thumbnail\",\"hentry\"],\"jetpack_likes_enabled\":true,\"jetpack_sharing_enabled\":true,\"jetpack_shortlink\":\"https:\\/\\/wp.me\\/P7T7OO-i\",\"amp_enabled\":true,\"_links\":{\"self\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/18\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\"}],\"about\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/types\\/page\"}],\"author\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/users\\/59245587\"}],\"replies\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/comments?post=18\"}],\"version-history\":[{\"count\":37,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/18\\/revisions\"}],\"predecessor-version\":[{\"id\":7842,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/18\\/revisions\\/7842\"}],\"wp:featuredmedia\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media\\/1610\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media?parent=18\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/tags?post=18\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "schedule",
+      "secondary": [
+        "programs",
+        "gallery",
+        "pricing"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/wp-json/wp/v2/pages/20",
+    "title": "",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-09T01:21:51.266Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "application/json"
+  },
+  "frameworks": {
+    "detected": [],
+    "versions": {}
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/wp-json/wp/v2/pages/20",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289711279,
+          "endTime": 1778289711895,
+          "duration": 616
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org"
+    ],
+    "aggregates": {
+      "total_requests": 1,
+      "by_type": {
+        "document": 1
+      },
+      "failed": 0,
+      "avg_response_time": 616
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 7,
+    "max_depth": 3,
+    "script_counts": {
+      "inline": 0,
+      "external": 0,
+      "async": 0,
+      "defer": 0,
+      "blocking": 0
+    },
+    "blocking_resources": []
+  },
+  "content": {
+    "visible_text": "{\"id\":20,\"date\":\"2013-12-20T18:14:25\",\"date_gmt\":\"2013-12-21T02:14:25\",\"guid\":{\"rendered\":\"http:\\/\\/quantumsf.wordpress.com\\/?page_id=16\"},\"modified\":\"2021-04-14T11:21:04\",\"modified_gmt\":\"2021-04-14T18:21:04\",\"slug\":\"adult-martial-arts-curriculum\",\"status\":\"publish\",\"type\":\"page\",\"link\":\"https:\\/\\/quantumsf.org\\/adult-martial-arts-curriculum\\/\",\"title\":{\"rendered\":\"Adult Curriculum\"},\"content\":{\"rendered\":\"<p>The Quantum style is a unique blend of <i>Tae Kwon Do<\\/i>,\\u00a0<i>Wing Chun,<\\/i>\\u00a0<em>Judo<\\/em>, and\\u00a0<em>Arnis<\\/em>, among other styles, with a focus on self-actualization, total body healing, and strength.<\\/p>\\n<p>New students and beginners are always welcome, and your first week of classes is free!<\\/p>\\n<p>Once enrolled, new students are asked to come to class at least two times a week to cultivate their training practice.\\u00a0 Intermediate students are encouraged to attend two to three times a week, and advanced students three to four. We currently offer online and limited in-person martial arts classes for adults seven days a week. Check out our <a href=\\\"https:\\/\\/quantumsf.org\\/adult-class-schedule\\/\\\">class schedule<\\/a> for more information about our current class offerings!<\\/p>\\n<p><strong>Promotions<\\/strong><\\/p>\\n<p>Every six to eight weeks, there is a belt test to determine who is ready to move on to the next level.\\u00a0 In order to participate in testings, students must ask permission from the Instructor within the week preceding the test. Testings typically happen on Saturdays and Mondays, and begin with an in-depth community cleaning of the Dojo.<\\/p>\\n<p><strong>Quantum Belts<\\/strong><\\/p>\\n<p>Click below on the belt you are currently wearing to find information about what you need to know for your next test.<\\/p>\\n<ul>\\n<li><a title=\\\"White Belt (10th and 9th\\u00a0gup)\\\" href=\\\"\\/adult-martial-arts-curriculum\\/white-belt\\/\\\">White Belt (10th and 9th gup)<\\/a><\\/li>\\n<li><a title=\\\"Yellow Belt\\\" href=\\\"\\/adult-martial-arts-curriculum\\/yellow-belt\\/\\\">Yellow Belt (8th and 7th\\u00a0gup)<\\/a><\\/li>\\n<li><a title=\\\"Green Belt\\\" href=\\\"\\/adult-martial-arts-curriculum\\/green-belt\\/\\\">Green Belt (6th and 5th gup)<\\/a><\\/li>\\n<li><a title=\\\"Blue Belt\\\" href=\\\"\\/adult-martial-arts-curriculum\\/blue-belt\\/\\\">Blue Belt (4th and 3rd\\u00a0gup)<\\/a><\\/li>\\n<li><a title=\\\"Red Belt\\\" href=\\\"\\/adult-martial-arts-curriculum\\/red-belt\\/\\\">Red Belt (2nd and 1st\\u00a0gup)<\\/a><\\/li>\\n<li>Black Belt (1st to 3rd dan) &#8212; check with your instructor<\\/li>\\n<\\/ul>\\n\",\"protected\":false},\"excerpt\":{\"rendered\":\"<p>The Quantum style is a unique blend of Tae Kwon Do,\\u00a0Wing Chun,\\u00a0Judo, and\\u00a0Arnis, among other styles, with a focus on self-actualization, total body healing, and strength. New students and beginners are always welcome, and your first week of classes is free! Once enrolled, new students are asked to come to class at least two times &hellip; <a href=\\\"https:\\/\\/quantumsf.org\\/adult-martial-arts-curriculum\\/\\\" class=\\\"more-link\\\"><span class=\\\"more-link-text\\\">Read more <span class=\\\"screen-reader-text\\\">Adult Curriculum<\\/span><\\/span><\\/a><\\/p>\\n\",\"protected\":false},\"author\":59245587,\"featured_media\":0,\"parent\":0,\"menu_order\":5,\"comment_status\":\"closed\",\"ping_status\":\"closed\",\"template\":\"\",\"meta\":{\"_coblocks_attr\":\"\",\"_coblocks_dimensions\":\"\",\"_coblocks_responsive_height\":\"\",\"_coblocks_accordion_ie_support\":\"\",\"_crdt_document\":\"\",\"advanced_seo_description\":\"\",\"jetpack_seo_html_title\":\"\",\"jetpack_seo_noindex\":false,\"footnotes\":\"\"},\"tags\":[],\"class_list\":[\"post-20\",\"page\",\"type-page\",\"status-publish\",\"hentry\"],\"jetpack_likes_enabled\":true,\"jetpack_sharing_enabled\":true,\"jetpack_shortlink\":\"https:\\/\\/wp.me\\/P7T7OO-k\",\"amp_enabled\":true,\"_links\":{\"self\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/20\",\"targetHints\":{\"allow\":[\"GET\"]}}],\"collection\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\"}],\"about\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/types\\/page\"}],\"author\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/users\\/59245587\"}],\"replies\":[{\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/comments?post=20\"}],\"version-history\":[{\"count\":8,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/20\\/revisions\"}],\"predecessor-version\":[{\"id\":6000,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/pages\\/20\\/revisions\\/6000\"}],\"wp:attachment\":[{\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/media?parent=20\"}],\"wp:term\":[{\"taxonomy\":\"post_tag\",\"embeddable\":true,\"href\":\"https:\\/\\/quantumsf.org\\/wp-json\\/wp\\/v2\\/tags?post=20\"}],\"curies\":[{\"name\":\"wp\",\"href\":\"https:\\/\\/api.w.org\\/{rel}\",\"templated\":true}]}}",
+    "headings": [],
+    "ctas": [],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "schedule",
+        "instructors",
+        "home"
+      ]
+    },
+    "hierarchy_summary": "No headings found"
+  },
+  "images": [],
+  "third_party": {
+    "analytics": [],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

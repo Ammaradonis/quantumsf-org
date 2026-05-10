@@ -1,0 +1,3386 @@
+{
+  "page": {
+    "url": "https://quantumsf.org/kids-martial-arts/kids-distance-learning/",
+    "original_url": "https://quantumsf.org/kids-martial-arts/kids-distance-learning",
+    "title": "Distance-learning resources – Quantum Martial Arts San Francisco",
+    "meta_description": "Kids Program Forms, ages 6–9 The following forms lessons were filmed during an online Forms Seminar  on May 16, 2020.  These distance-learning resources were developed during the Shelter-in-Place ordinances of the 2020 Covid-19 pandemic. They don't function as replacements to our in-person classes, but remain available for our students who would like to do supplemental…",
+    "canonical": "https://quantumsf.org/kids-martial-arts/kids-distance-learning/",
+    "crawl_timestamp": "2026-05-09T01:12:21.860Z",
+    "redirect_chain": [],
+    "status_code": null,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery",
+      "WordPress"
+    ],
+    "versions": {
+      "jQuery": "3.7.1",
+      "WordPress": "Site Kit by Google 1.32.0"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://quantumsf.org/kids-martial-arts/kids-distance-learning",
+        "method": "GET",
+        "status": 301,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289141876,
+          "endTime": 1778289142432,
+          "duration": 556
+        }
+      },
+      {
+        "url": "https://quantumsf.org/kids-martial-arts/kids-distance-learning/",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289142432,
+          "endTime": 1778289143734,
+          "duration": 1302
+        }
+      },
+      {
+        "url": "https://pixel.wp.com/boom.gif?bilmur=1&batcache_hit=0&provider=wordpress.com&service=atomic&site_tz=America%2FLos_Angeles&custom_props=%7B%22woo_active%22%3A%220%22%2C%22logged_in%22%3A%220%22%2C%22wptheme%22%3A%22radiate%22%2C%22wptheme_is_block%22%3A%220%22%7D&rtt=0&downlink=9400&site_host=quantumsf.org&site_path=%2Fkids-teens-martial-arts-curriculum%2F&full_path=%2Fkids-teens-martial-arts-curriculum%2F&version=4.4.0&edge_dc=vie&edge_status=MISS&edge_dur=1088&nt=2--1ad_1ad_1_eg_eg_eg_eg_eg_eg_eg_f0_1a3_1a9_1av_1se_1th_1ti_3ox_3oy_3p7--0_1_0_1a3--h3&reporter=fetchLater&fcp=2316&fcp_raw=2316&fp_raw=2316&cls=0.123&lcp=3656&lcp_prio=high&lcp_raw=3656&lcp_sel=div.featured-image%3Eimg.attachment-radiate-featured-image.size-radiate-featured-image.wp-post-image&lcp_type=img&lcp_res=https%3A%2F%2Fi0.wp.com%2Fquantumsf.org%2Fwp-content%2Fuploads%2F2015%2F05%2Fdsc_0405.jpg%3Fresize%3D830%252C374%26ssl%3D1&lcp_pre=0&ttfb=1659&nav_type=navigate",
+        "method": "GET",
+        "status": null,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": null
+      },
+      {
+        "url": "https://quantumsf.org/_static/??-eJyVzkEOwjAMBMAPYSyo1HJBvCU4oUQkdlW7BH5PSukFiQNXa2fXZQAStsCGQ5r6yIok5yR0U/RRDdWeKcB6g/CoWY3CuiXVTfmTO47ZWeXfOk+wFpSBJOsV74G9jOgmk2osElpdhxx8dFCi74PBu75uamXLZc78fo3NkcFFxgwdRqY0+Q9fmmZ5ysdd1x32bds07QtIe22a",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143816,
+          "endTime": 1778289143889,
+          "duration": 73
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/simple-embed-code/css/video-container.min.css?m=1773883529",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143889,
+          "endTime": 1778289143895,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/css/dashicons.min.css?ver=6.9.4",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143899,
+          "endTime": 1778289143906,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-content/plugins/gutenberg/build/styles/components/style.min.css,wp-content/plugins/coblocks/includes/Dependencies/GoDaddy/Styles/build/latest.css?m=1778166270",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143907,
+          "endTime": 1778289143912,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://fonts-api.wp.com/css?family=Roboto%3A400%2C700%7CMerriweather%3A400%2C300&subset=latin%2Clatin-ext",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143912,
+          "endTime": 1778289143919,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css,wp-content/themes/radiate/style.css?m=1771843756",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143920,
+          "endTime": 1778289143924,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/themes/radiate/inc/style-wpcom.css?m=1461872125",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143924,
+          "endTime": 1778289143928,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143960,
+          "endTime": 1778289143962,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??wp-includes/js/jquery/jquery-migrate.min.js,wp-content/themes/radiate/js/custom.js?m=1686289764",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143969,
+          "endTime": 1778289143975,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDrgCcaGl3w.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143976,
+          "endTime": 1778289143980,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icaGl3w.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143980,
+          "endTime": 1778289143987,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143992,
+          "endTime": 1778289143998,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://fonts.wp.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmaiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289143998,
+          "endTime": 1778289144017,
+          "duration": 19
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/uploads/2016/12/shutterstock_329138189_1000x1000.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144018,
+          "endTime": 1778289144025,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/02/quantum_rework_logo_500x500_trans.png?fit=60%2C60&ssl=1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144026,
+          "endTime": 1778289144036,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/QgbrU1bZ4GA?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289144036,
+          "endTime": 1778289144102,
+          "duration": 66
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/aDTWTdZBQ8I?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289144037,
+          "endTime": 1778289144057,
+          "duration": 20
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/z1BDZEl9-o8?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289144037,
+          "endTime": 1778289144068,
+          "duration": 31
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/1hoFY11T6jM?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289144356,
+          "endTime": 1778289145176,
+          "duration": 820
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/MLHid0GBMYc?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289144383,
+          "endTime": 1778289144954,
+          "duration": 571
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/7BjZkGH14Nw?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289144384,
+          "endTime": 1778289144994,
+          "duration": 610
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/sFtMZ9NAj0M?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289144390,
+          "endTime": 1778289145117,
+          "duration": 727
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144447,
+          "endTime": 1778289144450,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144459,
+          "endTime": 1778289144473,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144474,
+          "endTime": 1778289144495,
+          "duration": 21
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144510,
+          "endTime": 1778289144522,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144614,
+          "endTime": 1778289144648,
+          "duration": 34
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144649,
+          "endTime": 1778289144668,
+          "duration": 19
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144669,
+          "endTime": 1778289144686,
+          "duration": 17
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144686,
+          "endTime": 1778289144714,
+          "duration": 28
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144714,
+          "endTime": 1778289144716,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144727,
+          "endTime": 1778289144742,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144743,
+          "endTime": 1778289144762,
+          "duration": 19
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144762,
+          "endTime": 1778289144778,
+          "duration": 16
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/dcUTTBtSW7U?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289144779,
+          "endTime": 1778289145188,
+          "duration": 409
+        }
+      },
+      {
+        "url": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/09/yelp_button.png?resize=150%2C47&ssl=1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144897,
+          "endTime": 1778289144901,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_cc_147x47.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144902,
+          "endTime": 1778289144907,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://s0.wp.com/wp-content/js/bilmur.min.js?m=202619",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144910,
+          "endTime": 1778289144912,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?m=1719276502",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144916,
+          "endTime": 1778289144919,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/hooks/index.min.js?ver=7496969728ca0f95732d",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144919,
+          "endTime": 1778289144924,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/i18n/index.min.js?ver=125448662852c5e18937",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144926,
+          "endTime": 1778289144929,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1744852765",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144934,
+          "endTime": 1778289144941,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144941,
+          "endTime": 1778289144943,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144944,
+          "endTime": 1778289144950,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144955,
+          "endTime": 1778289144960,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144964,
+          "endTime": 1778289144966,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144974,
+          "endTime": 1778289144989,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289144990,
+          "endTime": 1778289144992,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145001,
+          "endTime": 1778289145006,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://quantumsf.org/_static/??-eJx9zUkOwjAMQNELkVotg2CBOApyEqc4gxPhhHJ8xJYF+//0t2ZclU7SoT+okMITPWMniAqCL16xc5Up6m77l2riZjJLMqG6oSbw+8e0PFYWhUi9oUtwZ3FgB2cPAR3ZWpOhYslPhb+/W7nOp8N8WfbH5fwB3Dk9XA==",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145007,
+          "endTime": 1778289145012,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/sdk.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145012,
+          "endTime": 1778289145023,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://stats.wp.com/e-202619.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145024,
+          "endTime": 1778289145029,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://pixel.wp.com/g.gif?v=ext&blog=116572450&post=4543&tz=-7&srv=quantumsf.org&hp=atomic&ac=2&amp=0&j=1%3A15.8&host=quantumsf.org&ref=&fcp=0&rand=0.11198240520297564",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145031,
+          "endTime": 1778289145294,
+          "duration": 263
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145080,
+          "endTime": 1778289145086,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145087,
+          "endTime": 1778289145095,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145096,
+          "endTime": 1778289145101,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145105,
+          "endTime": 1778289145110,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145118,
+          "endTime": 1778289145124,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145125,
+          "endTime": 1778289145137,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145141,
+          "endTime": 1778289145149,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145157,
+          "endTime": 1778289145167,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://quantumsf.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145168,
+          "endTime": 1778289145173,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145189,
+          "endTime": 1778289145207,
+          "duration": 18
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145208,
+          "endTime": 1778289145213,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145295,
+          "endTime": 1778289145306,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145307,
+          "endTime": 1778289145315,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145316,
+          "endTime": 1778289145325,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145325,
+          "endTime": 1778289145327,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145331,
+          "endTime": 1778289145339,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145340,
+          "endTime": 1778289145345,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145346,
+          "endTime": 1778289145381,
+          "duration": 35
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145382,
+          "endTime": 1778289145391,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145391,
+          "endTime": 1778289145393,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145393,
+          "endTime": 1778289145404,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145457,
+          "endTime": 1778289145937,
+          "duration": 480
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145458,
+          "endTime": 1778289145463,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145464,
+          "endTime": 1778289145470,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145476,
+          "endTime": 1778289145486,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145487,
+          "endTime": 1778289145494,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145495,
+          "endTime": 1778289145506,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145507,
+          "endTime": 1778289145514,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145519,
+          "endTime": 1778289146143,
+          "duration": 624
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145520,
+          "endTime": 1778289145526,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145526,
+          "endTime": 1778289145537,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145553,
+          "endTime": 1778289146210,
+          "duration": 657
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145553,
+          "endTime": 1778289145592,
+          "duration": 39
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145593,
+          "endTime": 1778289145595,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145643,
+          "endTime": 1778289145656,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145671,
+          "endTime": 1778289145692,
+          "duration": 21
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145693,
+          "endTime": 1778289145711,
+          "duration": 18
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145741,
+          "endTime": 1778289145785,
+          "duration": 44
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145892,
+          "endTime": 1778289145904,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145905,
+          "endTime": 1778289145922,
+          "duration": 17
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289145937,
+          "endTime": 1778289146802,
+          "duration": 865
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289146143,
+          "endTime": 1778289147122,
+          "duration": 979
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289146213,
+          "endTime": 1778289147193,
+          "duration": 980
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aDTWTdZBQ8I/maxresdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289146652,
+          "endTime": 1778289146655,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289146687,
+          "endTime": 1778289147306,
+          "duration": 619
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/bundle/sdk.js/",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289146688,
+          "endTime": 1778289146699,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289146742,
+          "endTime": 1778289147585,
+          "duration": 843
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289146743,
+          "endTime": 1778289146755,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289146756,
+          "endTime": 1778289146761,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289146773,
+          "endTime": 1778289147536,
+          "duration": 763
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289146820,
+          "endTime": 1778289147600,
+          "duration": 780
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/z1BDZEl9-o8/maxresdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289146963,
+          "endTime": 1778289147183,
+          "duration": 220
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/QgbrU1bZ4GA/maxresdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147108,
+          "endTime": 1778289147265,
+          "duration": 157
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147230,
+          "endTime": 1778289147895,
+          "duration": 665
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147236,
+          "endTime": 1778289147251,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147252,
+          "endTime": 1778289147258,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147591,
+          "endTime": 1778289148508,
+          "duration": 917
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147600,
+          "endTime": 1778289147704,
+          "duration": 104
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147653,
+          "endTime": 1778289148533,
+          "duration": 880
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147653,
+          "endTime": 1778289147669,
+          "duration": 16
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147682,
+          "endTime": 1778289147692,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147877,
+          "endTime": 1778289147884,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147900,
+          "endTime": 1778289148953,
+          "duration": 1053
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147931,
+          "endTime": 1778289148964,
+          "duration": 1033
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147934,
+          "endTime": 1778289147945,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289147945,
+          "endTime": 1778289147953,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/MLHid0GBMYc/maxresdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289148149,
+          "endTime": 1778289148151,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289148250,
+          "endTime": 1778289149266,
+          "duration": 1016
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289148250,
+          "endTime": 1778289148256,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289148256,
+          "endTime": 1778289148260,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289148551,
+          "endTime": 1778289149519,
+          "duration": 968
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289148622,
+          "endTime": 1778289148640,
+          "duration": 18
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/7BjZkGH14Nw/maxresdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289148704,
+          "endTime": 1778289148720,
+          "duration": 16
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289148969,
+          "endTime": 1778289149912,
+          "duration": 943
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289149011,
+          "endTime": 1778289149014,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289149267,
+          "endTime": 1778289150218,
+          "duration": 951
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289149311,
+          "endTime": 1778289149328,
+          "duration": 17
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/sFtMZ9NAj0M/maxresdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289149435,
+          "endTime": 1778289149673,
+          "duration": 238
+        }
+      },
+      {
+        "url": "https://www.facebook.com/v2.3/plugins/page.php?app_id=249643311490&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfccccd6036f86dfc2%26domain%3Dquantumsf.org%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fquantumsf.org%252Ff05865f056023de11%26relation%3Dparent.parent&container_width=281&height=432&hide_cover=false&hide_cta=false&href=https%3A%2F%2Fwww.facebook.com%2Fquantumsf&locale=en_US&sdk=joey&show_facepile=true&small_header=false&tabs=false&width=340",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289149473,
+          "endTime": 1778289149712,
+          "duration": 239
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289149543,
+          "endTime": 1778289150482,
+          "duration": 939
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289149574,
+          "endTime": 1778289149610,
+          "duration": 36
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289149675,
+          "endTime": 1778289150507,
+          "duration": 832
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/1hoFY11T6jM/maxresdefault.jpg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289149822,
+          "endTime": 1778289150110,
+          "duration": 288
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289149859,
+          "endTime": 1778289150517,
+          "duration": 658
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y3/l/0,cross/B57LQ6dEpt0.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150091,
+          "endTime": 1778289150108,
+          "duration": 17
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/Uu-GGVUS6aZ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150091,
+          "endTime": 1778289150415,
+          "duration": 324
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/KI4kVMPB_xX.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150096,
+          "endTime": 1778289150350,
+          "duration": 254
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4i7M54/yi/l/en_US-j/ZSAm2KyddJ2.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150097,
+          "endTime": 1778289150359,
+          "duration": 262
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4issO4/y8/l/en_US-j/BqrUK47pxRc.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150097,
+          "endTime": 1778289150361,
+          "duration": 264
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yy/r/FYabRVBZzIf.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150097,
+          "endTime": 1778289150393,
+          "duration": 296
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/e0qnL2dG90H.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150098,
+          "endTime": 1778289150500,
+          "duration": 402
+        }
+      },
+      {
+        "url": "https://scontent.xx.fbcdn.net/v/t39.30808-1/301931905_517434093590957_5939348572974433876_n.png?stp=cp0_dst-png_s50x50&_nc_cat=107&ccb=1-7&_nc_sid=f907e8&_nc_ohc=9TudK746nBkQ7kNvwHkSGQm&_nc_oc=AdoCS0kpudrJnBxg-_7wUR6M7Z-aEWzqqouH3buXP7NzKNO-zXUmi_cZnEEI9tcSJEc&_nc_zt=24&_nc_ht=scontent.xx&edm=AItmks8EAAAA&_nc_gid=h3JDff_nGHnJ5cSGhQeFBw&oh=00_Af6olETpOqtJFtaXl9TP14HNad2-NisX73lUEuSSBPPCfQ&oe=6A047513",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150098,
+          "endTime": 1778289150491,
+          "duration": 393
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/dcUTTBtSW7U/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLD_t_4d8bdIr0WkGZYBMGPeZ5Yr7w",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150109,
+          "endTime": 1778289150609,
+          "duration": 500
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150507,
+          "endTime": 1778289150680,
+          "duration": 173
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/UPw3RAV2r8i.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150610,
+          "endTime": 1778289150625,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/c_itVLXCmal.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150626,
+          "endTime": 1778289150641,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289150719,
+          "endTime": 1778289150888,
+          "duration": 169
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289151220,
+          "endTime": 1778289151404,
+          "duration": 184
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289151365,
+          "endTime": 1778289151738,
+          "duration": 373
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289151583,
+          "endTime": 1778289152194,
+          "duration": 611
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289151785,
+          "endTime": 1778289152303,
+          "duration": 518
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?zMc0Rg",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289152706,
+          "endTime": 1778289152788,
+          "duration": 82
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?wMOp5w",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289152747,
+          "endTime": 1778289152827,
+          "duration": 80
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?OoPMeg",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289152757,
+          "endTime": 1778289152844,
+          "duration": 87
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?UB54xg",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289152774,
+          "endTime": 1778289152864,
+          "duration": 90
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?4_9O4Q",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289152791,
+          "endTime": 1778289152878,
+          "duration": 87
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?UOMmrQ",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289152856,
+          "endTime": 1778289152955,
+          "duration": 99
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?sXhDFg",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289152872,
+          "endTime": 1778289152971,
+          "duration": 99
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?_CM6fw",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289153002,
+          "endTime": 1778289153079,
+          "duration": 77
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289153051,
+          "endTime": 1778289153264,
+          "duration": 213
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289153231,
+          "endTime": 1778289153533,
+          "duration": 302
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289153359,
+          "endTime": 1778289153591,
+          "duration": 232
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289153426,
+          "endTime": 1778289153690,
+          "duration": 264
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289153510,
+          "endTime": 1778289153720,
+          "duration": 210
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289153658,
+          "endTime": 1778289153914,
+          "duration": 256
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289153778,
+          "endTime": 1778289153938,
+          "duration": 160
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289153837,
+          "endTime": 1778289153941,
+          "duration": 104
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289153891,
+          "endTime": 1778289153963,
+          "duration": 72
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289153917,
+          "endTime": 1778289154013,
+          "duration": 96
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289154053,
+          "endTime": 1778289154160,
+          "duration": 107
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289154183,
+          "endTime": 1778289154258,
+          "duration": 75
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289154317,
+          "endTime": 1778289154382,
+          "duration": 65
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289154450,
+          "endTime": 1778289154529,
+          "duration": 79
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289154588,
+          "endTime": 1778289154730,
+          "duration": 142
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289154723,
+          "endTime": 1778289154808,
+          "duration": 85
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289154841,
+          "endTime": 1778289154927,
+          "duration": 86
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289154980,
+          "endTime": 1778289155063,
+          "duration": 83
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289155620,
+          "endTime": 1778289155722,
+          "duration": 102
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289156243,
+          "endTime": 1778289156421,
+          "duration": 178
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289156434,
+          "endTime": 1778289156596,
+          "duration": 162
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289156526,
+          "endTime": 1778289156676,
+          "duration": 150
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289156674,
+          "endTime": 1778289157243,
+          "duration": 569
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289156773,
+          "endTime": 1778289157259,
+          "duration": 486
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289156841,
+          "endTime": 1778289157271,
+          "duration": 430
+        }
+      },
+      {
+        "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289156893,
+          "endTime": 1778289157276,
+          "duration": 383
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/VJ8eP4MhSLs?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289206119,
+          "endTime": 1778289206427,
+          "duration": 308
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206140,
+          "endTime": 1778289206150,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/XdYBpvQo0uw?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289206480,
+          "endTime": 1778289206848,
+          "duration": 368
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/sa16XrBkI88?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289206490,
+          "endTime": 1778289206690,
+          "duration": 200
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206533,
+          "endTime": 1778289206545,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206545,
+          "endTime": 1778289206564,
+          "duration": 19
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206565,
+          "endTime": 1778289206580,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206581,
+          "endTime": 1778289206586,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206595,
+          "endTime": 1778289206608,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206636,
+          "endTime": 1778289206652,
+          "duration": 16
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206653,
+          "endTime": 1778289206674,
+          "duration": 21
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206747,
+          "endTime": 1778289206761,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206763,
+          "endTime": 1778289206781,
+          "duration": 18
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206784,
+          "endTime": 1778289206787,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206795,
+          "endTime": 1778289206808,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206859,
+          "endTime": 1778289207381,
+          "duration": 522
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206860,
+          "endTime": 1778289206868,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206872,
+          "endTime": 1778289206877,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206891,
+          "endTime": 1778289206898,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289206899,
+          "endTime": 1778289206913,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://www.youtube.com/embed/xLB7mb1Q_p4?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778289207059,
+          "endTime": 1778289207306,
+          "duration": 247
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207082,
+          "endTime": 1778289207099,
+          "duration": 17
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207124,
+          "endTime": 1778289207132,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207132,
+          "endTime": 1778289207152,
+          "duration": 20
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207153,
+          "endTime": 1778289207180,
+          "duration": 27
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207397,
+          "endTime": 1778289208184,
+          "duration": 787
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207413,
+          "endTime": 1778289207420,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207430,
+          "endTime": 1778289207441,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207489,
+          "endTime": 1778289207509,
+          "duration": 20
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207510,
+          "endTime": 1778289207529,
+          "duration": 19
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/VJ8eP4MhSLs/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLBwxY-QAXdGejLnSt2q6tZ6LJZfqA",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207749,
+          "endTime": 1778289208113,
+          "duration": 364
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207841,
+          "endTime": 1778289207915,
+          "duration": 74
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/www-player.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289207953,
+          "endTime": 1778289208003,
+          "duration": 50
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.i-sC42taVNk.L.X.O/am=AAAAIA/d=0/br=1/rs=AGKMywEbOV25ThGI4bfsD39MiNPjT1fXTw",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208003,
+          "endTime": 1778289208012,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=root,base",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208013,
+          "endTime": 1778289208027,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/player/8fb635c2/player_embed.vflset/en_US/base.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208052,
+          "endTime": 1778289208075,
+          "duration": 23
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208191,
+          "endTime": 1778289208201,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208230,
+          "endTime": 1778289208233,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208239,
+          "endTime": 1778289208253,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208291,
+          "endTime": 1778289208792,
+          "duration": 501
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208292,
+          "endTime": 1778289208295,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208297,
+          "endTime": 1778289208302,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208388,
+          "endTime": 1778289208411,
+          "duration": 23
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208793,
+          "endTime": 1778289209501,
+          "duration": 708
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208842,
+          "endTime": 1778289209564,
+          "duration": 722
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208847,
+          "endTime": 1778289208850,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289208853,
+          "endTime": 1778289208856,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/sa16XrBkI88/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLA8ClggviA82INy-Zia3dt5iQVNZw",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289209074,
+          "endTime": 1778289209375,
+          "duration": 301
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289209122,
+          "endTime": 1778289209125,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289209564,
+          "endTime": 1778289210151,
+          "duration": 587
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id",
+        "method": "GET",
+        "status": 302,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289209698,
+          "endTime": 1778289210118,
+          "duration": 420
+        }
+      },
+      {
+        "url": "https://static.doubleclick.net/instream/ad_status.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289209700,
+          "endTime": 1778289209724,
+          "duration": 24
+        }
+      },
+      {
+        "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.xzcSOk8ggsw.es5.O/am=AAAAIA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywEaKh3Q5GyN5lNq6twnMKS0l-BYvg/m=r78Drb",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289209726,
+          "endTime": 1778289209817,
+          "duration": 91
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289209817,
+          "endTime": 1778289209824,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289209825,
+          "endTime": 1778289209835,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289209869,
+          "endTime": 1778289209890,
+          "duration": 21
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/XdYBpvQo0uw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLBHbaLrwOImsMBHCeqoL5ocRSgh9g",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289209891,
+          "endTime": 1778289210090,
+          "duration": 199
+        }
+      },
+      {
+        "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289210118,
+          "endTime": 1778289210468,
+          "duration": 350
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289210220,
+          "endTime": 1778289210225,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://www.google.com/js/th/rcHyBCfnx63Q5bkx-VZJDAm13ckst38UoFjazA7tkuA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289210259,
+          "endTime": 1778289210273,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xLB7mb1Q_p4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLAT90c7Em4yPRUFMEiUc9cAXRUCgg",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289210403,
+          "endTime": 1778289210535,
+          "duration": 132
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289210545,
+          "endTime": 1778289210551,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://yt3.ggpht.com/ytc/AIdro_mHJvI0IhVaifWaZLq_VykvY-mlWtQ8QLrxUjIRKxZYZQ=s68-c-k-c0x00ffffff-no-rj",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289210664,
+          "endTime": 1778289210675,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?KFI0bQ",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289211124,
+          "endTime": 1778289211267,
+          "duration": 143
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?YK_rFA",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289211247,
+          "endTime": 1778289211377,
+          "duration": 130
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?Z83j1g",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289211317,
+          "endTime": 1778289211438,
+          "duration": 121
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289211374,
+          "endTime": 1778289211492,
+          "duration": 118
+        }
+      },
+      {
+        "url": "https://www.youtube.com/generate_204?die9Xw",
+        "method": "GET",
+        "status": 204,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289211520,
+          "endTime": 1778289211634,
+          "duration": 114
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289211581,
+          "endTime": 1778289211773,
+          "duration": 192
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289211751,
+          "endTime": 1778289211869,
+          "duration": 118
+        }
+      },
+      {
+        "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778289211845,
+          "endTime": 1778289211968,
+          "duration": 123
+        }
+      }
+    ],
+    "third_party_domains": [
+      "quantumsf.org",
+      "pixel.wp.com",
+      "fonts-api.wp.com",
+      "fonts.wp.com",
+      "i0.wp.com",
+      "www.youtube.com",
+      "www.paypalobjects.com",
+      "s0.wp.com",
+      "fonts.gstatic.com",
+      "connect.facebook.net",
+      "stats.wp.com",
+      "googleads.g.doubleclick.net",
+      "static.doubleclick.net",
+      "i.ytimg.com",
+      "www.google.com",
+      "yt3.ggpht.com",
+      "www.facebook.com",
+      "static.xx.fbcdn.net",
+      "scontent.xx.fbcdn.net",
+      "jnn-pa.googleapis.com"
+    ],
+    "aggregates": {
+      "total_requests": 262,
+      "by_type": {
+        "document": 15,
+        "fetch": 1,
+        "stylesheet": 32,
+        "script": 80,
+        "font": 28,
+        "image": 43,
+        "xhr": 63
+      },
+      "failed": 0,
+      "avg_response_time": 172.6259541984733
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 351,
+    "max_depth": 15,
+    "script_counts": {
+      "inline": 8,
+      "external": 13,
+      "async": 1,
+      "defer": 3,
+      "blocking": 9
+    },
+    "blocking_resources": [
+      "https://connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3",
+      "https://quantumsf.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://quantumsf.org/_static/??wp-includes/js/jquery/jquery-migrate.min.js,wp-content/themes/radiate/js/custom.js?m=1686289764",
+      "https://quantumsf.org/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?m=1719276502",
+      "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/hooks/index.min.js?ver=7496969728ca0f95732d",
+      "https://quantumsf.org/wp-content/plugins/gutenberg/build/scripts/i18n/index.min.js?ver=125448662852c5e18937",
+      "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1744852765",
+      "https://quantumsf.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+      "https://quantumsf.org/_static/??-eJx9zUkOwjAMQNELkVotg2CBOApyEqc4gxPhhHJ8xJYF+//0t2ZclU7SoT+okMITPWMniAqCL16xc5Up6m77l2riZjJLMqG6oSbw+8e0PFYWhUi9oUtwZ3FgB2cPAR3ZWpOhYslPhb+/W7nOp8N8WfbH5fwB3Dk9XA==",
+      "https://quantumsf.org/_static/??-eJyVzkEOwjAMBMAPYSyo1HJBvCU4oUQkdlW7BH5PSukFiQNXa2fXZQAStsCGQ5r6yIok5yR0U/RRDdWeKcB6g/CoWY3CuiXVTfmTO47ZWeXfOk+wFpSBJOsV74G9jOgmk2osElpdhxx8dFCi74PBu75uamXLZc78fo3NkcFFxgwdRqY0+Q9fmmZ5ysdd1x32bds07QtIe22a",
+      "https://quantumsf.org/wp-content/plugins/simple-embed-code/css/video-container.min.css?m=1773883529",
+      "https://quantumsf.org/wp-includes/css/dashicons.min.css?ver=6.9.4",
+      "https://quantumsf.org/_static/??wp-content/plugins/gutenberg/build/styles/components/style.min.css,wp-content/plugins/coblocks/includes/Dependencies/GoDaddy/Styles/build/latest.css?m=1778166270",
+      "https://fonts-api.wp.com/css?family=Roboto%3A400%2C700%7CMerriweather%3A400%2C300&subset=latin%2Clatin-ext",
+      "https://quantumsf.org/_static/??wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css,wp-content/themes/radiate/style.css?m=1771843756",
+      "https://quantumsf.org/wp-content/themes/radiate/inc/style-wpcom.css?m=1461872125"
+    ]
+  },
+  "content": {
+    "visible_text": "Distance-learning resources Kids Program Forms, ages 6–9 The following forms lessons were filmed during an online Forms Seminar  on May 16, 2020. These distance-learning resources were developed during the Shelter-in-Place ordinances of the 2020 Covid-19 pandemic. They don’t function as replacements to our in-person classes, but remain available for our students who would like to do supplemental martial arts at home. To view the written steps to each form, short videos of each form as it is to be performed, and the techniques learned at each rank, please click through the Kids Curriculum page , choosing the belt your student is * currently * wearing. View a big-picture overview of the Kids Program rank belt curriculum here . Consider downloading and printing it for visual motivation! Basic Form: White Belt Chon-Ji: Yellow Belt Dan Gun: High Yellow Belt Do San: Green Belt Gravity: High Green Belt Terra Moto: Blue Belt Kids Classes Below is a collection of one-hour-long classes that each begin with a 30 minute warmup/stretching session, followed by a 30 minute martial arts lesson. These videos are intended to support students with continued practice during times they are not able to make it to the Dojo, such as vacations or quarantine periods. The videos are recordings of live Zoom classes broadcast from the San Francisco Dojo during Spring 2020, when we were closed due to the COVID-19 pandemic. Kids Class: Footwork Kids Class: Combos Kids Class: Targets Kids Class: Kicking Kids Class: Stances Reviews Facebook Community Dojo Quantum Martial Arts is a registered 501(c)(3) nonprofit in the State of California, and we thrive on the generosity of people like you. All donations are tax-deductible. Quantum’s tax ID number is 26-1534597. No donation is too small, or too large. Whether it’s $20 or $20,000, every cent will be hugely appreciated and put to good use. Support Our Kids Donate now to support our youth scholarship program which allows families in need to train at reduced cost. We believe investment in our community involves investing in our youth. Our Sister Schools Our Seattle Dojo has served thousands of students since opening on Capitol Hill in 1995, and currently offers youth and adult classes in the Central District. Our Portland Dojo was established in 2020, and currently offers youth and adult classes in Southeast Portland. A WordPress.com Website .",
+    "headings": [
+      {
+        "level": "h1",
+        "text": "Distance-learning resources"
+      },
+      {
+        "level": "h3",
+        "text": "Reviews"
+      },
+      {
+        "level": "h3",
+        "text": "Facebook"
+      },
+      {
+        "level": "h3",
+        "text": "Community Dojo"
+      },
+      {
+        "level": "h3",
+        "text": "Support Our Kids"
+      },
+      {
+        "level": "h3",
+        "text": "Our Sister Schools"
+      },
+      {
+        "level": "h4",
+        "text": "Kids Program Forms, ages 6–9"
+      },
+      {
+        "level": "h5",
+        "text": "Basic Form: White Belt"
+      },
+      {
+        "level": "h5",
+        "text": "Chon-Ji: Yellow Belt"
+      },
+      {
+        "level": "h5",
+        "text": "Dan Gun: High Yellow Belt"
+      },
+      {
+        "level": "h5",
+        "text": "Do San: Green Belt"
+      },
+      {
+        "level": "h5",
+        "text": "Gravity: High Green Belt"
+      },
+      {
+        "level": "h5",
+        "text": "Terra Moto: Blue Belt"
+      },
+      {
+        "level": "h5",
+        "text": "Kids Classes"
+      },
+      {
+        "level": "h5",
+        "text": "Kids Class: Footwork"
+      },
+      {
+        "level": "h5",
+        "text": "Kids Class: Combos"
+      },
+      {
+        "level": "h5",
+        "text": "Kids Class: Targets"
+      },
+      {
+        "level": "h5",
+        "text": "Kids Class: Kicking"
+      },
+      {
+        "level": "h5",
+        "text": "Kids Class: Stances"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Search",
+        "type": "button",
+        "href": null
+      },
+      {
+        "text": "Class Schedule",
+        "type": "link",
+        "href": "https://quantumsf.org/adult-class-schedule/"
+      },
+      {
+        "text": "Contact Us",
+        "type": "link",
+        "href": "https://quantumsf.org/contact-us/"
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://quantumsf.org/schedule/"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "kids",
+      "secondary": [
+        "programs",
+        "testimonials",
+        "gallery"
+      ]
+    },
+    "hierarchy_summary": "h1: Distance-learning resources\n    h3: Reviews\n    h3: Facebook\n    h3: Community Dojo\n    h3: Support Our Kids\n    h3: Our Sister Schools\n      h4: Kids Program Forms, ages 6–9\n        h5: Basic Form: White Belt\n        h5: Chon-Ji: Yellow Belt\n        h5: Dan Gun: High Yellow Belt\n        h5: Do San: Green Belt\n        h5: Gravity: High Green Belt\n        h5: Terra Moto: Blue Belt\n        h5: Kids Classes\n        h5: Kids Class: Footwork\n        h5: Kids Class: Combos\n        h5: Kids Class: Targets\n        h5: Kids Class: Kicking\n        h5: Kids Class: Stances"
+  },
+  "images": [
+    {
+      "src": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/02/quantum_rework_logo_500x500_trans.png?fit=60%2C60&ssl=1",
+      "page_url": "https://quantumsf.org/kids-martial-arts/kids-distance-learning/",
+      "alt": "",
+      "surrounding_text": "",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://i0.wp.com/quantumsf.org/wp-content/uploads/2016/09/yelp_button.png?resize=150%2C47&ssl=1",
+      "page_url": "https://quantumsf.org/kids-martial-arts/kids-distance-learning/",
+      "alt": "yelp_button",
+      "surrounding_text": "yelp_button",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_cc_147x47.png",
+      "page_url": "https://quantumsf.org/kids-martial-arts/kids-distance-learning/",
+      "alt": "Donate with Paypal",
+      "surrounding_text": "Donate with Paypal",
+      "inferred_purpose": "general"
+    },
+    {
+      "src": "https://pixel.wp.com/g.gif?v=ext&blog=116572450&post=4543&tz=-7&srv=quantumsf.org&hp=atomic&ac=2&amp=0&j=1%3A15.8&host=quantumsf.org&ref=&fcp=0&rand=0.11198240520297564",
+      "page_url": "https://quantumsf.org/kids-martial-arts/kids-distance-learning/",
+      "alt": "",
+      "surrounding_text": "/* <![CDATA[ */\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\n//# sourceURL=wp-i18n-js-after\n/* ]]> */ /* <![CDATA[ */\nvar jpfbembed = {\"appid\":\"249643311490\",\"locale\":\"en_US\"};\n//# sourceURL=jetpack-facebook-embed-js-extra\n/* ]]> */",
+      "inferred_purpose": "logo"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Meta Pixel"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [
+      "YouTube Embed"
+    ],
+    "other": []
+  }
+}
